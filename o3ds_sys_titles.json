@@ -1,0 +1,5084 @@
+[
+ {
+   "titleid": "0004001000021000",
+   "region": "USA",
+   "name": "System Settings",
+   "version": "v1027, v2062, v3078, v4098, v5128, v6157, v7174, v8203, v9221",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000021100",
+   "region": "USA",
+   "name": "Download Play application",
+   "version": "v0, v1026, v2051, v3073",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001000021200",
+   "region": "USA",
+   "name": "Activity Log",
+   "version": "v1026, v2054, v2064",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000021300",
+   "region": "USA",
+   "name": "Health and Safety Information",
+   "version": "v0, v1026, v2051",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 6.1.0-12U"
+ },
+ {
+   "titleid": "0004001000021400",
+   "region": "USA",
+   "name": "Nintendo 3DS Camera application",
+   "version": "v0, v16, v1039, v2048, v3074, v3088, v4097",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 4.0.0-7, 6.1.0-12U, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001000021500",
+   "region": "USA",
+   "name": "Nintendo 3DS Sound application",
+   "version": "v0, v1027, v2049, v3072, v3088",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000021700",
+   "region": "USA",
+   "name": "Mii Maker",
+   "version": "v1026, v2055",
+   "update_versions": "2.0.0-2_Initial_scan, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000021800",
+   "region": "USA",
+   "name": "StreetPass Mii Plaza",
+   "version": "v1027, v2048, v3087, v4096, v5124, v5136",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 3.0.0-6, 6.1.0-12U, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000021900",
+   "region": "USA",
+   "name": "eShop",
+   "version": "v4, v1026, v2058, v3081, v4096, v5123, v6146, v7170, v8206, v9231, v10246, v11265, v12288, v13321, v15366, v16384, v17422, v18432, v19465, v20482, v21506",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004001000021A00",
+   "region": "USA",
+   "name": "System Transfer application",
+   "version": "v4, v1035, v2051, v3073, v4109, v5131, v6156",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000021B00",
+   "region": "USA",
+   "name": "Nintendo Zone application",
+   "version": "v0, v1034",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5"
+ },
+ {
+   "titleid": "0004001000021D00",
+   "region": "USA",
+   "name": "Face Raiders",
+   "version": "v0, v1028, v1040",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000021E00",
+   "region": "USA",
+   "name": "AR Games",
+   "version": "v0, v1027, v1040",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000021F00",
+   "region": "USA",
+   "name": "SAFE_MODE System Updater application",
+   "version": "v0, v1024, v2049",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000024000",
+   "region": "USA",
+   "name": "Promotional video application",
+   "version": "v2048",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004001B00010002",
+   "region": "CHN",
+   "name": "ClCertA",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001B00010002",
+   "region": "USA",
+   "name": "ClCertA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004001B00010002",
+   "region": "JPN",
+   "name": "ClCertA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004001B00010002",
+   "region": "KOR",
+   "name": "ClCertA",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001B00010002",
+   "region": "EUR",
+   "name": "ClCertA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004001B00010002",
+   "region": "TWN",
+   "name": "ClCertA",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004003000008A02",
+   "region": "CHN",
+   "name": "ErrDisp",
+   "version": "v4096, v5121, v6144, v7168",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008A02",
+   "region": "USA",
+   "name": "ErrDisp",
+   "version": "v1025, v3072, v4096, v5121, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008A02",
+   "region": "JPN",
+   "name": "ErrDisp",
+   "version": "v1025, v3072, v4096, v5121, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008A02",
+   "region": "KOR",
+   "name": "ErrDisp",
+   "version": "v4096, v5121, v6144, v7168",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008A02",
+   "region": "EUR",
+   "name": "ErrDisp",
+   "version": "v1025, v3072, v4096, v5121, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008A02",
+   "region": "TWN",
+   "name": "ErrDisp",
+   "version": "v4096, v5121, v6144, v7168",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008A03",
+   "region": "USA",
+   "name": "SAFE_MODE ErrDisp",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004003000008A03",
+   "region": "JPN",
+   "name": "SAFE_MODE ErrDisp",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004003000008A03",
+   "region": "EUR",
+   "name": "SAFE_MODE ErrDisp",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004003000008F02",
+   "region": "USA",
+   "name": "Home Menu",
+   "version": "v1027, v2049, v4111, v5131, v6146, v7172, v8198, v9230, v11272, v13330, v15360, v16404, v17415, v19456, v20480, v21504, v22528, v23552, v24578, v25600, v26624",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 6.0.0-11, 7.0.0-13, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.6.0-31, 11.1.0-34"
+ },
+ {
+   "titleid": "0004003000009002",
+   "region": "USA",
+   "name": "Camera applet",
+   "version": "v0, v1036, v2049",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009202",
+   "region": "USA",
+   "name": "Instruction Manual applet",
+   "version": "v1026, v2048, v3072, v4097, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009302",
+   "region": "USA",
+   "name": "Game Notes applet",
+   "version": "v1026, v2049, v3073, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009402",
+   "region": "USA",
+   "name": "Internet Browser",
+   "version": "v6, v1024, v2050, v3075, v3088, v4096, v5121, v6149, v7168, v8192, v9232, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-16, 9.5.0-23, 9.9.0-26, 10.2.0-28, 10.6.0-31, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "0004003000009602",
+   "region": "USA",
+   "name": "Friend List applet",
+   "version": "v1026, v3082, v4099, v5120, v6144",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009702",
+   "region": "USA",
+   "name": "Notifications applet",
+   "version": "v1029, v2054, v3075, v4097",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000C502",
+   "region": "USA",
+   "name": "error applet",
+   "version": "v1026, v2053, v3074, v5128, v6145",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000C502",
+   "region": "JPN",
+   "name": "error applet",
+   "version": "v1026, v2053, v3074, v5128, v6145",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000C502",
+   "region": "EUR",
+   "name": "error applet",
+   "version": "v1026, v2053, v3074, v5128, v6145",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000C503",
+   "region": "USA",
+   "name": "SAFE_MODE error applet",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400300000C503",
+   "region": "JPN",
+   "name": "SAFE_MODE error applet",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400300000C503",
+   "region": "EUR",
+   "name": "SAFE_MODE error applet",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400300000C802",
+   "region": "USA",
+   "name": "Software Keyboard",
+   "version": "v1026, v2053, v3072, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000C803",
+   "region": "USA",
+   "name": "SAFE_MODE Software Keyboard",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400300000C902",
+   "region": "USA",
+   "name": "appletEd",
+   "version": "v0, v1026, v2048, v3077",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000CB02",
+   "region": "USA",
+   "name": "PNOTE_AP",
+   "version": "v0, v1024, v3075, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000CC02",
+   "region": "USA",
+   "name": "SNOTE_AP",
+   "version": "v3, v1026, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004009B00010202",
+   "region": "CHN",
+   "name": "Mii-data CFA",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00010202",
+   "region": "USA",
+   "name": "Mii-data CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00010202",
+   "region": "JPN",
+   "name": "Mii-data CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00010202",
+   "region": "KOR",
+   "name": "Mii-data CFA",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00010202",
+   "region": "EUR",
+   "name": "Mii-data CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00010202",
+   "region": "TWN",
+   "name": "Mii-data CFA",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004009B00010402",
+   "region": "CHN",
+   "name": "N/A",
+   "version": "v3072, v4098, v5122",
+   "update_versions": "4.0.0-7, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004009B00010402",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v1024, v2050, v3072, v4098, v5122",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004009B00010402",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v1024, v2050, v3072, v4098, v5122",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004009B00010402",
+   "region": "KOR",
+   "name": "N/A",
+   "version": "v3072, v4098, v5122",
+   "update_versions": "4.0.0-7, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004009B00010402",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v1024, v2050, v3072, v4098, v5122",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004009B00010402",
+   "region": "TWN",
+   "name": "N/A",
+   "version": "v3072, v4098, v5122",
+   "update_versions": "4.1.0-8, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004009B00010602",
+   "region": "CHN",
+   "name": "Non-Nintendo TLS Root-CA Certificates CFA",
+   "version": "v2, v1024",
+   "update_versions": "4.0.0-7, 10.5.0-30"
+ },
+ {
+   "titleid": "0004009B00010602",
+   "region": "USA",
+   "name": "Non-Nintendo TLS Root-CA Certificates CFA",
+   "version": "v2, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 10.5.0-30"
+ },
+ {
+   "titleid": "0004009B00010602",
+   "region": "JPN",
+   "name": "Non-Nintendo TLS Root-CA Certificates CFA",
+   "version": "v2, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 10.5.0-30"
+ },
+ {
+   "titleid": "0004009B00010602",
+   "region": "KOR",
+   "name": "Non-Nintendo TLS Root-CA Certificates CFA",
+   "version": "v2, v1024",
+   "update_versions": "4.0.0-7, 10.5.0-30"
+ },
+ {
+   "titleid": "0004009B00010602",
+   "region": "EUR",
+   "name": "Non-Nintendo TLS Root-CA Certificates CFA",
+   "version": "v2, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 10.5.0-30"
+ },
+ {
+   "titleid": "0004009B00010602",
+   "region": "TWN",
+   "name": "Non-Nintendo TLS Root-CA Certificates CFA",
+   "version": "v2, v1024",
+   "update_versions": "4.1.0-8, 10.5.0-30"
+ },
+ {
+   "titleid": "0004009B00011402",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011602",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011D02",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011D02",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011E02",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00012302",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v1026, v2053, v3073, v4096, v5120, v6149, v7168, v8192, v9218, v10242, v11269, v12289, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004009B00013302",
+   "region": "USA",
+   "name": "EULA CFA",
+   "version": "v1024, v2051, v3074, v4099, v5123",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004009B00014002",
+   "region": "CHN",
+   "name": "System Font CFA",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014002",
+   "region": "USA",
+   "name": "System Font CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00014002",
+   "region": "JPN",
+   "name": "System Font CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00014002",
+   "region": "KOR",
+   "name": "System Font CFA",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014002",
+   "region": "EUR",
+   "name": "System Font CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00014002",
+   "region": "TWN",
+   "name": "System Font CFA",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004009B00014102",
+   "region": "CHN",
+   "name": "CHN System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014102",
+   "region": "USA",
+   "name": "CHN System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014102",
+   "region": "JPN",
+   "name": "CHN System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014102",
+   "region": "KOR",
+   "name": "CHN System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014102",
+   "region": "EUR",
+   "name": "CHN System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014102",
+   "region": "TWN",
+   "name": "CHN System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004009B00014202",
+   "region": "CHN",
+   "name": "KOR System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014202",
+   "region": "USA",
+   "name": "KOR System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014202",
+   "region": "JPN",
+   "name": "KOR System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014202",
+   "region": "KOR",
+   "name": "KOR System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014202",
+   "region": "EUR",
+   "name": "KOR System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014202",
+   "region": "TWN",
+   "name": "KOR System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004009B00014302",
+   "region": "CHN",
+   "name": "TWN System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014302",
+   "region": "USA",
+   "name": "TWN System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014302",
+   "region": "JPN",
+   "name": "TWN System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014302",
+   "region": "KOR",
+   "name": "TWN System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014302",
+   "region": "EUR",
+   "name": "TWN System Font CFA",
+   "version": "v0, v1024",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00014302",
+   "region": "TWN",
+   "name": "TWN System Font CFA",
+   "version": "v1024",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004009B00015302",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400DB00010302",
+   "region": "CHN",
+   "name": "NGWord bad word list CFA",
+   "version": "v3072, v4096, v5120, v6144, v7168, v8192, v9217",
+   "update_versions": "4.0.0-7, 4.3.0-10, 5.0.0-11, 9.0.0-20, 9.3.0-21, 9.6.0-24, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010302",
+   "region": "USA",
+   "name": "NGWord bad word list CFA",
+   "version": "v1024, v2052, v3072, v4096, v5120, v6144, v7168, v8192, v9217",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.3.0-10, 5.0.0-11, 9.0.0-20, 9.3.0-21, 9.6.0-24, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010302",
+   "region": "JPN",
+   "name": "NGWord bad word list CFA",
+   "version": "v1024, v2052, v3072, v4096, v5120, v6144, v7168, v8192, v9217",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.3.0-10, 5.0.0-11, 9.0.0-20, 9.3.0-21, 9.6.0-24, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010302",
+   "region": "KOR",
+   "name": "NGWord bad word list CFA",
+   "version": "v3072, v4096, v5120, v6144, v7168, v8192, v9217",
+   "update_versions": "4.0.0-7, 4.3.0-10, 5.0.0-11, 9.0.0-20, 9.3.0-21, 9.6.0-24, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010302",
+   "region": "EUR",
+   "name": "NGWord bad word list CFA",
+   "version": "v1024, v2052, v3072, v4096, v5120, v6144, v7168, v8192, v9217",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.3.0-10, 5.0.0-11, 9.0.0-20, 9.3.0-21, 9.6.0-24, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010302",
+   "region": "TWN",
+   "name": "NGWord bad word list CFA",
+   "version": "v3072, v4096, v5120, v6144, v7168, v8192, v9217",
+   "update_versions": "4.1.0-8, 4.3.0-10, 5.0.0-11, 9.0.0-20, 9.3.0-21, 9.6.0-24, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010502",
+   "region": "CHN",
+   "name": "Nintendo Zone hotspot list CFA",
+   "version": "v3073, v4096, v5120, v6144, v7169, v8192, v9216, v10242, v11267, v12288, v14336, v15360, v16386, v17409, v18432, v19457",
+   "update_versions": "4.0.0-7, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010502",
+   "region": "USA",
+   "name": "Nintendo Zone hotspot list CFA",
+   "version": "v1024, v2048, v3073, v4096, v5120, v6144, v7169, v8192, v9216, v10242, v11267, v12288, v14336, v15360, v16386, v17409, v18432, v19457",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010502",
+   "region": "JPN",
+   "name": "Nintendo Zone hotspot list CFA",
+   "version": "v1024, v2048, v3073, v4096, v5120, v6144, v7169, v8192, v9216, v10242, v11267, v12288, v14336, v15360, v16386, v17409, v18432, v19457",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010502",
+   "region": "KOR",
+   "name": "Nintendo Zone hotspot list CFA",
+   "version": "v3073, v4096, v5120, v6144, v7169, v8192, v9216, v10242, v11267, v12288, v14336, v15360, v16386, v17409, v18432, v19457",
+   "update_versions": "4.0.0-7, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010502",
+   "region": "EUR",
+   "name": "Nintendo Zone hotspot list CFA",
+   "version": "v1024, v2048, v3073, v4096, v5120, v6144, v7169, v8192, v9216, v10242, v11267, v12288, v14336, v15360, v16386, v17409, v18432, v19457",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 6.2.0-12E, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00010502",
+   "region": "TWN",
+   "name": "Nintendo Zone hotspot list CFA",
+   "version": "v3073, v4096, v5120, v6144, v7169, v8192, v9216, v10242, v11267, v12288, v14336, v15360, v16386, v17409, v18432, v19457",
+   "update_versions": "4.1.0-8, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "000400DB00016302",
+   "region": "USA",
+   "name": "NVer",
+   "version": "v32, v48, v64, v80, v96, v112, v128, v144, v160, v176, v192, v208, v224, v240, v256, v272, v288, v304, v320, v336, v352, v368, v384, v400, v416, v432, v448, v464, v480, v496, v512, v528, v544, v560",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 2.1.0-4, 3.0.0-5, 3.0.0-6, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 6.1.0-12U, 7.0.0-13, 7.1.0-14, 7.1.0-15, 7.1.0-16, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.5.0-23, 9.6.0-24, 9.7.0-25, 9.9.0-26, 10.0.0-27, 10.2.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "000400DB00017302",
+   "region": "USA",
+   "name": "CVer",
+   "version": "v2049, v2069, v3088, v4098, v4113, v4130, v4145, v4163, v4176, v5120, v5136, v6146, v6160, v6178, v6192, v7175, v7187, v7203, v8196, v8208, v9218, v9264, v9296, v9319, v9328, v9344, v9360, v10240, v10256, v10272, v10288, v10304, v10320, v10336, v10352, v11264, v11280, v11296",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 6.2.0-12, 6.3.0-12, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.0.0-27, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000001502",
+   "region": "CHN",
+   "name": "AM system-module",
+   "version": "v3072, v4098, v5120, v6148, v8192, v9217",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001502",
+   "region": "USA",
+   "name": "AM system-module",
+   "version": "v1026, v2053, v3072, v4098, v5120, v6148, v8192, v9217",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001502",
+   "region": "JPN",
+   "name": "AM system-module",
+   "version": "v1026, v2053, v3072, v4098, v5120, v6148, v8192, v9217",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001502",
+   "region": "KOR",
+   "name": "AM system-module",
+   "version": "v3072, v4098, v5120, v6148, v8192, v9217",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001502",
+   "region": "EUR",
+   "name": "AM system-module",
+   "version": "v1026, v2053, v3072, v4098, v5120, v6148, v8192, v9217",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001502",
+   "region": "TWN",
+   "name": "AM system-module",
+   "version": "v3072, v4098, v5120, v6148, v8192, v9217",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001503",
+   "region": "CHN",
+   "name": "SAFE_MODE AM system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001503",
+   "region": "USA",
+   "name": "SAFE_MODE AM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001503",
+   "region": "JPN",
+   "name": "SAFE_MODE AM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001503",
+   "region": "KOR",
+   "name": "SAFE_MODE AM system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001503",
+   "region": "EUR",
+   "name": "SAFE_MODE AM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001503",
+   "region": "TWN",
+   "name": "SAFE_MODE AM system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001602",
+   "region": "CHN",
+   "name": "Camera system-module",
+   "version": "v3074, v4098, v5120, v6146, v7172, v9216, v10242, v11265",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.1.0-14, 8.0.0-18, 9.0.0-20, 9.3.0-21, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001602",
+   "region": "USA",
+   "name": "Camera system-module",
+   "version": "v1026, v2048, v3074, v4098, v5120, v6146, v7172, v9216, v10242, v11265",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.1.0-14, 8.0.0-18, 9.0.0-20, 9.3.0-21, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001602",
+   "region": "JPN",
+   "name": "Camera system-module",
+   "version": "v1026, v2048, v3074, v4098, v5120, v6146, v7172, v9216, v10242, v11265",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.1.0-14, 8.0.0-18, 9.0.0-20, 9.3.0-21, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001602",
+   "region": "KOR",
+   "name": "Camera system-module",
+   "version": "v3074, v4098, v5120, v6146, v7172, v9216, v10242, v11265",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.1.0-14, 8.0.0-18, 9.0.0-20, 9.3.0-21, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001602",
+   "region": "EUR",
+   "name": "Camera system-module",
+   "version": "v1026, v2048, v3074, v4098, v5120, v6146, v7172, v9216, v10242, v11265",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.1.0-14, 8.0.0-18, 9.0.0-20, 9.3.0-21, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001602",
+   "region": "TWN",
+   "name": "Camera system-module",
+   "version": "v3074, v4098, v5120, v6146, v7172, v9216, v10242, v11265",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 7.1.0-14, 8.0.0-18, 9.0.0-20, 9.3.0-21, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000001702",
+   "region": "CHN",
+   "name": "Config system-module",
+   "version": "v4096, v5122, v6145, v7168, v8196, v9220, v10243, v12290, v13315, v14342",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001702",
+   "region": "USA",
+   "name": "Config system-module",
+   "version": "v1024, v2049, v4096, v5122, v6145, v7168, v8196, v9220, v10243, v12290, v13315, v14342",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001702",
+   "region": "JPN",
+   "name": "Config system-module",
+   "version": "v1024, v2049, v4096, v5122, v6145, v7168, v8196, v9220, v10243, v12290, v13315, v14342",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001702",
+   "region": "KOR",
+   "name": "Config system-module",
+   "version": "v4096, v5122, v6145, v7168, v8196, v9220, v10243, v12290, v13315, v14342",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001702",
+   "region": "EUR",
+   "name": "Config system-module",
+   "version": "v1024, v2049, v4096, v5122, v6145, v7168, v8196, v9220, v10243, v12290, v13315, v14342",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001702",
+   "region": "TWN",
+   "name": "Config system-module",
+   "version": "v4096, v5122, v6145, v7168, v8196, v9220, v10243, v12290, v13315, v14342",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001703",
+   "region": "CHN",
+   "name": "SAFE_MODE Config system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001703",
+   "region": "USA",
+   "name": "SAFE_MODE Config system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001703",
+   "region": "JPN",
+   "name": "SAFE_MODE Config system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001703",
+   "region": "KOR",
+   "name": "SAFE_MODE Config system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001703",
+   "region": "EUR",
+   "name": "SAFE_MODE Config system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001703",
+   "region": "TWN",
+   "name": "SAFE_MODE Config system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001802",
+   "region": "CHN",
+   "name": "Codec system-module",
+   "version": "v3072, v4098, v5120, v6144, v7168",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000001802",
+   "region": "USA",
+   "name": "Codec system-module",
+   "version": "v1025, v3072, v4098, v5120, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000001802",
+   "region": "JPN",
+   "name": "Codec system-module",
+   "version": "v1025, v3072, v4098, v5120, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000001802",
+   "region": "KOR",
+   "name": "Codec system-module",
+   "version": "v3072, v4098, v5120, v6144, v7168",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000001802",
+   "region": "EUR",
+   "name": "Codec system-module",
+   "version": "v1025, v3072, v4098, v5120, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000001802",
+   "region": "TWN",
+   "name": "Codec system-module",
+   "version": "v3072, v4098, v5120, v6144, v7168",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000001803",
+   "region": "CHN",
+   "name": "SAFE_MODE Codec system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001803",
+   "region": "USA",
+   "name": "SAFE_MODE Codec system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001803",
+   "region": "JPN",
+   "name": "SAFE_MODE Codec system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001803",
+   "region": "KOR",
+   "name": "SAFE_MODE Codec system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001803",
+   "region": "EUR",
+   "name": "SAFE_MODE Codec system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001803",
+   "region": "TWN",
+   "name": "SAFE_MODE Codec system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001A02",
+   "region": "CHN",
+   "name": "DSP system-module",
+   "version": "v2048, v3074, v4096, v5120, v6145, v7169",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.7.0-25, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000001A02",
+   "region": "USA",
+   "name": "DSP system-module",
+   "version": "v0, v1024, v2048, v3074, v4096, v5120, v6145, v7169",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.7.0-25, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000001A02",
+   "region": "JPN",
+   "name": "DSP system-module",
+   "version": "v0, v1024, v2048, v3074, v4096, v5120, v6145, v7169",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.7.0-25, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000001A02",
+   "region": "KOR",
+   "name": "DSP system-module",
+   "version": "v2048, v3074, v4096, v5120, v6145, v7169",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.7.0-25, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000001A02",
+   "region": "EUR",
+   "name": "DSP system-module",
+   "version": "v0, v1024, v2048, v3074, v4096, v5120, v6145, v7169",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.7.0-25, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000001A02",
+   "region": "TWN",
+   "name": "DSP system-module",
+   "version": "v2048, v3074, v4096, v5120, v6145, v7169",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.7.0-25, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000001A03",
+   "region": "CHN",
+   "name": "SAFE_MODE DSP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001A03",
+   "region": "USA",
+   "name": "SAFE_MODE DSP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001A03",
+   "region": "JPN",
+   "name": "SAFE_MODE DSP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001A03",
+   "region": "KOR",
+   "name": "SAFE_MODE DSP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001A03",
+   "region": "EUR",
+   "name": "SAFE_MODE DSP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001A03",
+   "region": "TWN",
+   "name": "SAFE_MODE DSP system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001B02",
+   "region": "CHN",
+   "name": "GPIO system-module",
+   "version": "v0, v1025, v2048, v3073",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.5.0-22"
+ },
+ {
+   "titleid": "0004013000001B02",
+   "region": "USA",
+   "name": "GPIO system-module",
+   "version": "v0, v1025, v2048, v3073",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18, 9.5.0-22"
+ },
+ {
+   "titleid": "0004013000001B02",
+   "region": "JPN",
+   "name": "GPIO system-module",
+   "version": "v0, v1025, v2048, v3073",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18, 9.5.0-22"
+ },
+ {
+   "titleid": "0004013000001B02",
+   "region": "KOR",
+   "name": "GPIO system-module",
+   "version": "v0, v1025, v2048, v3073",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.5.0-22"
+ },
+ {
+   "titleid": "0004013000001B02",
+   "region": "EUR",
+   "name": "GPIO system-module",
+   "version": "v0, v1025, v2048, v3073",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18, 9.5.0-22"
+ },
+ {
+   "titleid": "0004013000001B02",
+   "region": "TWN",
+   "name": "GPIO system-module",
+   "version": "v0, v1025, v2048, v3073",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.5.0-22"
+ },
+ {
+   "titleid": "0004013000001B03",
+   "region": "CHN",
+   "name": "SAFE_MODE GPIO system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001B03",
+   "region": "USA",
+   "name": "SAFE_MODE GPIO system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001B03",
+   "region": "JPN",
+   "name": "SAFE_MODE GPIO system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001B03",
+   "region": "KOR",
+   "name": "SAFE_MODE GPIO system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001B03",
+   "region": "EUR",
+   "name": "SAFE_MODE GPIO system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001B03",
+   "region": "TWN",
+   "name": "SAFE_MODE GPIO system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001C02",
+   "region": "CHN",
+   "name": "GSP system-module",
+   "version": "v5120, v6145, v7168, v8196, v10240, v11264, v12294",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001C02",
+   "region": "USA",
+   "name": "GSP system-module",
+   "version": "v2049, v3075, v5120, v6145, v7168, v8196, v10240, v11264, v12294",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001C02",
+   "region": "JPN",
+   "name": "GSP system-module",
+   "version": "v2049, v3075, v5120, v6145, v7168, v8196, v10240, v11264, v12294",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001C02",
+   "region": "KOR",
+   "name": "GSP system-module",
+   "version": "v5120, v6145, v7168, v8196, v10240, v11264, v12294",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001C02",
+   "region": "EUR",
+   "name": "GSP system-module",
+   "version": "v2049, v3075, v5120, v6145, v7168, v8196, v10240, v11264, v12294",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001C02",
+   "region": "TWN",
+   "name": "GSP system-module",
+   "version": "v5120, v6145, v7168, v8196, v10240, v11264, v12294",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000001C03",
+   "region": "CHN",
+   "name": "SAFE_MODE GSP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001C03",
+   "region": "USA",
+   "name": "SAFE_MODE GSP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001C03",
+   "region": "JPN",
+   "name": "SAFE_MODE GSP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001C03",
+   "region": "KOR",
+   "name": "SAFE_MODE GSP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001C03",
+   "region": "EUR",
+   "name": "SAFE_MODE GSP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001C03",
+   "region": "TWN",
+   "name": "SAFE_MODE GSP system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001D02",
+   "region": "CHN",
+   "name": "HID system-module",
+   "version": "v4096, v5121, v6148, v7168, v9216, v10240",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001D02",
+   "region": "USA",
+   "name": "HID system-module",
+   "version": "v1025, v3072, v4096, v5121, v6148, v7168, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001D02",
+   "region": "JPN",
+   "name": "HID system-module",
+   "version": "v1025, v3072, v4096, v5121, v6148, v7168, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001D02",
+   "region": "KOR",
+   "name": "HID system-module",
+   "version": "v4096, v5121, v6148, v7168, v9216, v10240",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001D02",
+   "region": "EUR",
+   "name": "HID system-module",
+   "version": "v1025, v3072, v4096, v5121, v6148, v7168, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001D02",
+   "region": "TWN",
+   "name": "HID system-module",
+   "version": "v4096, v5121, v6148, v7168, v9216, v10240",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001D03",
+   "region": "CHN",
+   "name": "SAFE_MODE HID system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001D03",
+   "region": "USA",
+   "name": "SAFE_MODE HID system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001D03",
+   "region": "JPN",
+   "name": "SAFE_MODE HID system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001D03",
+   "region": "KOR",
+   "name": "SAFE_MODE HID system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001D03",
+   "region": "EUR",
+   "name": "SAFE_MODE HID system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001D03",
+   "region": "TWN",
+   "name": "SAFE_MODE HID system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001E02",
+   "region": "CHN",
+   "name": "i2c system-module",
+   "version": "v1024, v2049, v3076, v5120",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001E02",
+   "region": "USA",
+   "name": "i2c system-module",
+   "version": "v0, v1024, v2049, v3076, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001E02",
+   "region": "JPN",
+   "name": "i2c system-module",
+   "version": "v0, v1024, v2049, v3076, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001E02",
+   "region": "KOR",
+   "name": "i2c system-module",
+   "version": "v1024, v2049, v3076, v5120",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001E02",
+   "region": "EUR",
+   "name": "i2c system-module",
+   "version": "v0, v1024, v2049, v3076, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001E02",
+   "region": "TWN",
+   "name": "i2c system-module",
+   "version": "v1024, v2049, v3076, v5120",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000001E03",
+   "region": "CHN",
+   "name": "SAFE_MODE i2c system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001E03",
+   "region": "USA",
+   "name": "SAFE_MODE i2c system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001E03",
+   "region": "JPN",
+   "name": "SAFE_MODE i2c system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001E03",
+   "region": "KOR",
+   "name": "SAFE_MODE i2c system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001E03",
+   "region": "EUR",
+   "name": "SAFE_MODE i2c system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001E03",
+   "region": "TWN",
+   "name": "SAFE_MODE i2c system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000001F02",
+   "region": "CHN",
+   "name": "MCU system-module",
+   "version": "v4102, v5122, v6145, v7168, v8192",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000001F02",
+   "region": "USA",
+   "name": "MCU system-module",
+   "version": "v1026, v2048, v3072, v4102, v5122, v6145, v7168, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000001F02",
+   "region": "JPN",
+   "name": "MCU system-module",
+   "version": "v1026, v2048, v3072, v4102, v5122, v6145, v7168, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000001F02",
+   "region": "KOR",
+   "name": "MCU system-module",
+   "version": "v4102, v5122, v6145, v7168, v8192",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000001F02",
+   "region": "EUR",
+   "name": "MCU system-module",
+   "version": "v1026, v2048, v3072, v4102, v5122, v6145, v7168, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000001F02",
+   "region": "TWN",
+   "name": "MCU system-module",
+   "version": "v4102, v5122, v6145, v7168, v8192",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000001F03",
+   "region": "CHN",
+   "name": "SAFE_MODE MCU system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001F03",
+   "region": "USA",
+   "name": "SAFE_MODE MCU system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001F03",
+   "region": "JPN",
+   "name": "SAFE_MODE MCU system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001F03",
+   "region": "KOR",
+   "name": "SAFE_MODE MCU system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000001F03",
+   "region": "EUR",
+   "name": "SAFE_MODE MCU system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000001F03",
+   "region": "TWN",
+   "name": "SAFE_MODE MCU system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002002",
+   "region": "CHN",
+   "name": "Microphone system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002002",
+   "region": "USA",
+   "name": "Microphone system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002002",
+   "region": "JPN",
+   "name": "Microphone system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002002",
+   "region": "KOR",
+   "name": "Microphone system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002002",
+   "region": "EUR",
+   "name": "Microphone system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002002",
+   "region": "TWN",
+   "name": "Microphone system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002102",
+   "region": "CHN",
+   "name": "PDN system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002102",
+   "region": "USA",
+   "name": "PDN system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002102",
+   "region": "JPN",
+   "name": "PDN system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002102",
+   "region": "KOR",
+   "name": "PDN system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002102",
+   "region": "EUR",
+   "name": "PDN system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002102",
+   "region": "TWN",
+   "name": "PDN system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002103",
+   "region": "CHN",
+   "name": "SAFE_MODE PDN system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002103",
+   "region": "USA",
+   "name": "SAFE_MODE PDN system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002103",
+   "region": "JPN",
+   "name": "SAFE_MODE PDN system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002103",
+   "region": "KOR",
+   "name": "SAFE_MODE PDN system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002103",
+   "region": "EUR",
+   "name": "SAFE_MODE PDN system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002103",
+   "region": "TWN",
+   "name": "SAFE_MODE PDN system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002202",
+   "region": "CHN",
+   "name": "PTM system-module",
+   "version": "v5120, v6146, v7168, v8192, v9219, v11264",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002202",
+   "region": "USA",
+   "name": "PTM system-module",
+   "version": "v1026, v3075, v5120, v6146, v7168, v8192, v9219, v11264",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002202",
+   "region": "JPN",
+   "name": "PTM system-module",
+   "version": "v1026, v3075, v5120, v6146, v7168, v8192, v9219, v11264",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002202",
+   "region": "KOR",
+   "name": "PTM system-module",
+   "version": "v5120, v6146, v7168, v8192, v9219, v11264",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002202",
+   "region": "EUR",
+   "name": "PTM system-module",
+   "version": "v1026, v3075, v5120, v6146, v7168, v8192, v9219, v11264",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002202",
+   "region": "TWN",
+   "name": "PTM system-module",
+   "version": "v5120, v6146, v7168, v8192, v9219, v11264",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 7.0.0-13, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002203",
+   "region": "CHN",
+   "name": "SAFE_MODE PTM system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002203",
+   "region": "USA",
+   "name": "SAFE_MODE PTM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002203",
+   "region": "JPN",
+   "name": "SAFE_MODE PTM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002203",
+   "region": "KOR",
+   "name": "SAFE_MODE PTM system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002203",
+   "region": "EUR",
+   "name": "SAFE_MODE PTM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002203",
+   "region": "TWN",
+   "name": "SAFE_MODE PTM system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002302",
+   "region": "CHN",
+   "name": "spi system-module",
+   "version": "v1025, v2049, v3072",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002302",
+   "region": "USA",
+   "name": "spi system-module",
+   "version": "v1025, v2049, v3072",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002302",
+   "region": "JPN",
+   "name": "spi system-module",
+   "version": "v1025, v2049, v3072",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002302",
+   "region": "KOR",
+   "name": "spi system-module",
+   "version": "v1025, v2049, v3072",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002302",
+   "region": "EUR",
+   "name": "spi system-module",
+   "version": "v1025, v2049, v3072",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002302",
+   "region": "TWN",
+   "name": "spi system-module",
+   "version": "v1025, v2049, v3072",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002303",
+   "region": "CHN",
+   "name": "SAFE_MODE spi system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002303",
+   "region": "USA",
+   "name": "SAFE_MODE spi system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002303",
+   "region": "JPN",
+   "name": "SAFE_MODE spi system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002303",
+   "region": "KOR",
+   "name": "SAFE_MODE spi system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002303",
+   "region": "EUR",
+   "name": "SAFE_MODE spi system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002303",
+   "region": "TWN",
+   "name": "SAFE_MODE spi system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002402",
+   "region": "CHN",
+   "name": "AC system-module",
+   "version": "v4101, v5122, v6145, v7172, v8192, v9216",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000002402",
+   "region": "USA",
+   "name": "AC system-module",
+   "version": "v2052, v3072, v4101, v5122, v6145, v7172, v8192, v9216",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000002402",
+   "region": "JPN",
+   "name": "AC system-module",
+   "version": "v2052, v3072, v4101, v5122, v6145, v7172, v8192, v9216",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000002402",
+   "region": "KOR",
+   "name": "AC system-module",
+   "version": "v4101, v5122, v6145, v7172, v8192, v9216",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000002402",
+   "region": "EUR",
+   "name": "AC system-module",
+   "version": "v2052, v3072, v4101, v5122, v6145, v7172, v8192, v9216",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000002402",
+   "region": "TWN",
+   "name": "AC system-module",
+   "version": "v4101, v5122, v6145, v7172, v8192, v9216",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000002403",
+   "region": "CHN",
+   "name": "SAFE_MODE AC system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002403",
+   "region": "USA",
+   "name": "SAFE_MODE AC system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002403",
+   "region": "JPN",
+   "name": "SAFE_MODE AC system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002403",
+   "region": "KOR",
+   "name": "SAFE_MODE AC system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002403",
+   "region": "EUR",
+   "name": "SAFE_MODE AC system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002403",
+   "region": "TWN",
+   "name": "SAFE_MODE AC system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002602",
+   "region": "CHN",
+   "name": "StreetPass system-module",
+   "version": "v4097, v5122, v6144, v7170, v8193, v9216, v10240",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002602",
+   "region": "USA",
+   "name": "StreetPass system-module",
+   "version": "v1026, v3073, v4097, v5122, v6144, v7170, v8193, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002602",
+   "region": "JPN",
+   "name": "StreetPass system-module",
+   "version": "v1026, v3073, v4097, v5122, v6144, v7170, v8193, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002602",
+   "region": "KOR",
+   "name": "StreetPass system-module",
+   "version": "v4097, v5122, v6144, v7170, v8193, v9216, v10240",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002602",
+   "region": "EUR",
+   "name": "StreetPass system-module",
+   "version": "v1026, v3073, v4097, v5122, v6144, v7170, v8193, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12E, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002602",
+   "region": "TWN",
+   "name": "StreetPass system-module",
+   "version": "v4097, v5122, v6144, v7170, v8193, v9216, v10240",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002702",
+   "region": "CHN",
+   "name": "CSND system-module",
+   "version": "v2048, v3073, v4096, v5120",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002702",
+   "region": "USA",
+   "name": "CSND system-module",
+   "version": "v1025, v2048, v3073, v4096, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002702",
+   "region": "JPN",
+   "name": "CSND system-module",
+   "version": "v1025, v2048, v3073, v4096, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002702",
+   "region": "KOR",
+   "name": "CSND system-module",
+   "version": "v2048, v3073, v4096, v5120",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002702",
+   "region": "EUR",
+   "name": "CSND system-module",
+   "version": "v1025, v2048, v3073, v4096, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002702",
+   "region": "TWN",
+   "name": "CSND system-module",
+   "version": "v2048, v3073, v4096, v5120",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002703",
+   "region": "CHN",
+   "name": "SAFE_MODE CSND system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002703",
+   "region": "USA",
+   "name": "SAFE_MODE CSND system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002703",
+   "region": "JPN",
+   "name": "SAFE_MODE CSND system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002703",
+   "region": "KOR",
+   "name": "SAFE_MODE CSND system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002703",
+   "region": "EUR",
+   "name": "SAFE_MODE CSND system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002703",
+   "region": "TWN",
+   "name": "SAFE_MODE CSND system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002802",
+   "region": "CHN",
+   "name": "Download Play system-module",
+   "version": "v3078, v4099, v5123, v6145, v7174, v8192",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002802",
+   "region": "USA",
+   "name": "Download Play system-module",
+   "version": "v1026, v3078, v4099, v5123, v6145, v7174, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002802",
+   "region": "JPN",
+   "name": "Download Play system-module",
+   "version": "v1026, v3078, v4099, v5123, v6145, v7174, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002802",
+   "region": "KOR",
+   "name": "Download Play system-module",
+   "version": "v3078, v4099, v5123, v6145, v7174, v8192",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002802",
+   "region": "EUR",
+   "name": "Download Play system-module",
+   "version": "v1026, v3078, v4099, v5123, v6145, v7174, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002802",
+   "region": "TWN",
+   "name": "Download Play system-module",
+   "version": "v3078, v4099, v5123, v6145, v7174, v8192",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002902",
+   "region": "CHN",
+   "name": "HTTP system-module",
+   "version": "v5122, v6145, v7171, v8192, v9220, v10245, v12288, v13318",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-14, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002902",
+   "region": "USA",
+   "name": "HTTP system-module",
+   "version": "v1026, v2049, v4099, v5122, v6145, v7171, v8192, v9220, v10245, v12288, v13318",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-14, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002902",
+   "region": "JPN",
+   "name": "HTTP system-module",
+   "version": "v1026, v2049, v4099, v5122, v6145, v7171, v8192, v9220, v10245, v12288, v13318",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-14, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002902",
+   "region": "KOR",
+   "name": "HTTP system-module",
+   "version": "v5122, v6145, v7171, v8192, v9220, v10245, v12288, v13318",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-14, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002902",
+   "region": "EUR",
+   "name": "HTTP system-module",
+   "version": "v1026, v2049, v4099, v5122, v6145, v7171, v8192, v9220, v10245, v12288, v13318",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-14, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002902",
+   "region": "TWN",
+   "name": "HTTP system-module",
+   "version": "v5122, v6145, v7171, v8192, v9220, v10245, v12288, v13318",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.0.0-13, 7.1.0-14, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002903",
+   "region": "CHN",
+   "name": "SAFE_MODE HTTP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002903",
+   "region": "USA",
+   "name": "SAFE_MODE HTTP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002903",
+   "region": "JPN",
+   "name": "SAFE_MODE HTTP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002903",
+   "region": "KOR",
+   "name": "SAFE_MODE HTTP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002903",
+   "region": "EUR",
+   "name": "SAFE_MODE HTTP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002903",
+   "region": "TWN",
+   "name": "SAFE_MODE HTTP system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002A02",
+   "region": "CHN",
+   "name": "MP system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002A02",
+   "region": "USA",
+   "name": "MP system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002A02",
+   "region": "JPN",
+   "name": "MP system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002A02",
+   "region": "KOR",
+   "name": "MP system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002A02",
+   "region": "EUR",
+   "name": "MP system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002A02",
+   "region": "TWN",
+   "name": "MP system-module",
+   "version": "v0, v1025, v2048",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18"
+ },
+ {
+   "titleid": "0004013000002A03",
+   "region": "CHN",
+   "name": "SAFE_MODE MP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002A03",
+   "region": "USA",
+   "name": "SAFE_MODE MP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002A03",
+   "region": "JPN",
+   "name": "SAFE_MODE MP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002A03",
+   "region": "KOR",
+   "name": "SAFE_MODE MP system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002A03",
+   "region": "EUR",
+   "name": "SAFE_MODE MP system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002A03",
+   "region": "TWN",
+   "name": "SAFE_MODE MP system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002B02",
+   "region": "CHN",
+   "name": "NDM system-module",
+   "version": "v3072, v4098, v5124, v7169",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002B02",
+   "region": "USA",
+   "name": "NDM system-module",
+   "version": "v1025, v2049, v3072, v4098, v5124, v7169",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002B02",
+   "region": "JPN",
+   "name": "NDM system-module",
+   "version": "v1025, v2049, v3072, v4098, v5124, v7169",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002B02",
+   "region": "KOR",
+   "name": "NDM system-module",
+   "version": "v3072, v4098, v5124, v7169",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002B02",
+   "region": "EUR",
+   "name": "NDM system-module",
+   "version": "v1025, v2049, v3072, v4098, v5124, v7169",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002B02",
+   "region": "TWN",
+   "name": "NDM system-module",
+   "version": "v3072, v4098, v5124, v7169",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002C02",
+   "region": "CHN",
+   "name": "NIM system-module",
+   "version": "v3074, v4100, v5120, v6148, v7174, v8195, v10249, v11267, v12296, v13313",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002C02",
+   "region": "USA",
+   "name": "NIM system-module",
+   "version": "v1028, v2055, v3074, v4100, v5120, v6148, v7174, v8195, v10249, v11267, v12296, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002C02",
+   "region": "JPN",
+   "name": "NIM system-module",
+   "version": "v1028, v2055, v3074, v4100, v5120, v6148, v7174, v8195, v10249, v11267, v12296, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002C02",
+   "region": "KOR",
+   "name": "NIM system-module",
+   "version": "v3074, v4100, v5120, v6148, v7174, v8195, v10249, v11267, v12296, v13313",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002C02",
+   "region": "EUR",
+   "name": "NIM system-module",
+   "version": "v1028, v2055, v3074, v4100, v5120, v6148, v7174, v8195, v10249, v11267, v12296, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002C02",
+   "region": "TWN",
+   "name": "NIM system-module",
+   "version": "v3074, v4100, v5120, v6148, v7174, v8195, v10249, v11267, v12296, v13313",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
+ },
+ {
+   "titleid": "0004013000002C03",
+   "region": "USA",
+   "name": "SAFE_MODE NIM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002C03",
+   "region": "JPN",
+   "name": "SAFE_MODE NIM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002C03",
+   "region": "EUR",
+   "name": "SAFE_MODE NIM system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002D02",
+   "region": "CHN",
+   "name": "NWM system-module",
+   "version": "v5120, v6148, v7169, v8196, v9216, v10240",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002D02",
+   "region": "USA",
+   "name": "NWM system-module",
+   "version": "v2052, v4101, v5120, v6148, v7169, v8196, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002D02",
+   "region": "JPN",
+   "name": "NWM system-module",
+   "version": "v2052, v4101, v5120, v6148, v7169, v8196, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002D02",
+   "region": "KOR",
+   "name": "NWM system-module",
+   "version": "v5120, v6148, v7169, v8196, v9216, v10240",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002D02",
+   "region": "EUR",
+   "name": "NWM system-module",
+   "version": "v2052, v4101, v5120, v6148, v7169, v8196, v9216, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002D02",
+   "region": "TWN",
+   "name": "NWM system-module",
+   "version": "v5120, v6148, v7169, v8196, v9216, v10240",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000002D03",
+   "region": "CHN",
+   "name": "SAFE_MODE NWM system-module",
+   "version": "v0, v5120",
+   "update_versions": "4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013000002D03",
+   "region": "USA",
+   "name": "SAFE_MODE NWM system-module",
+   "version": "v0, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013000002D03",
+   "region": "JPN",
+   "name": "SAFE_MODE NWM system-module",
+   "version": "v0, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013000002D03",
+   "region": "KOR",
+   "name": "SAFE_MODE NWM system-module",
+   "version": "v0, v5120",
+   "update_versions": "4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013000002D03",
+   "region": "EUR",
+   "name": "SAFE_MODE NWM system-module",
+   "version": "v0, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013000002D03",
+   "region": "TWN",
+   "name": "SAFE_MODE NWM system-module",
+   "version": "v0, v5120",
+   "update_versions": "4.1.0-8, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013000002E02",
+   "region": "CHN",
+   "name": "Sockets system-module",
+   "version": "v4096, v5121, v6144, v7168, v8192",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004013000002E02",
+   "region": "USA",
+   "name": "Sockets system-module",
+   "version": "v2053, v3075, v4096, v5121, v6144, v7168, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004013000002E02",
+   "region": "JPN",
+   "name": "Sockets system-module",
+   "version": "v2053, v3075, v4096, v5121, v6144, v7168, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004013000002E02",
+   "region": "KOR",
+   "name": "Sockets system-module",
+   "version": "v4096, v5121, v6144, v7168, v8192",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004013000002E02",
+   "region": "EUR",
+   "name": "Sockets system-module",
+   "version": "v2053, v3075, v4096, v5121, v6144, v7168, v8192",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004013000002E02",
+   "region": "TWN",
+   "name": "Sockets system-module",
+   "version": "v4096, v5121, v6144, v7168, v8192",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004013000002E03",
+   "region": "CHN",
+   "name": "SAFE_MODE Sockets system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002E03",
+   "region": "USA",
+   "name": "SAFE_MODE Sockets system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002E03",
+   "region": "JPN",
+   "name": "SAFE_MODE Sockets system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002E03",
+   "region": "KOR",
+   "name": "SAFE_MODE Sockets system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002E03",
+   "region": "EUR",
+   "name": "SAFE_MODE Sockets system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002E03",
+   "region": "TWN",
+   "name": "SAFE_MODE Sockets system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000002F02",
+   "region": "CHN",
+   "name": "SSL system-module",
+   "version": "v4096, v5122, v6144, v7168, v8198",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002F02",
+   "region": "USA",
+   "name": "SSL system-module",
+   "version": "v1024, v2048, v3072, v4096, v5122, v6144, v7168, v8198",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002F02",
+   "region": "JPN",
+   "name": "SSL system-module",
+   "version": "v1024, v2048, v3072, v4096, v5122, v6144, v7168, v8198",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002F02",
+   "region": "KOR",
+   "name": "SSL system-module",
+   "version": "v4096, v5122, v6144, v7168, v8198",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002F02",
+   "region": "EUR",
+   "name": "SSL system-module",
+   "version": "v1024, v2048, v3072, v4096, v5122, v6144, v7168, v8198",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002F02",
+   "region": "TWN",
+   "name": "SSL system-module",
+   "version": "v4096, v5122, v6144, v7168, v8198",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000002F03",
+   "region": "CHN",
+   "name": "SAFE_MODE SSL system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002F03",
+   "region": "USA",
+   "name": "SAFE_MODE SSL system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002F03",
+   "region": "JPN",
+   "name": "SAFE_MODE SSL system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002F03",
+   "region": "KOR",
+   "name": "SAFE_MODE SSL system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000002F03",
+   "region": "EUR",
+   "name": "SAFE_MODE SSL system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000002F03",
+   "region": "TWN",
+   "name": "SAFE_MODE SSL system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000003102",
+   "region": "CHN",
+   "name": "PS system-module",
+   "version": "v1025, v2049, v3072, v4096, v5120",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000003102",
+   "region": "USA",
+   "name": "PS system-module",
+   "version": "v1025, v2049, v3072, v4096, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000003102",
+   "region": "JPN",
+   "name": "PS system-module",
+   "version": "v1025, v2049, v3072, v4096, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000003102",
+   "region": "KOR",
+   "name": "PS system-module",
+   "version": "v1025, v2049, v3072, v4096, v5120",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000003102",
+   "region": "EUR",
+   "name": "PS system-module",
+   "version": "v1025, v2049, v3072, v4096, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000003102",
+   "region": "TWN",
+   "name": "PS system-module",
+   "version": "v1025, v2049, v3072, v4096, v5120",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004013000003103",
+   "region": "CHN",
+   "name": "SAFE_MODE PS system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000003103",
+   "region": "USA",
+   "name": "SAFE_MODE PS system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003103",
+   "region": "JPN",
+   "name": "SAFE_MODE PS system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003103",
+   "region": "KOR",
+   "name": "SAFE_MODE PS system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000003103",
+   "region": "EUR",
+   "name": "SAFE_MODE PS system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003103",
+   "region": "TWN",
+   "name": "SAFE_MODE PS system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000003202",
+   "region": "CHN",
+   "name": "friends system-module",
+   "version": "v4096, v5122, v6145, v7172, v8192, v9216, v10240, v11264, v12288, v13312",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000003202",
+   "region": "USA",
+   "name": "friends system-module",
+   "version": "v1028, v3072, v4096, v5122, v6145, v7172, v8192, v9216, v10240, v11264, v12288, v13312",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000003202",
+   "region": "JPN",
+   "name": "friends system-module",
+   "version": "v1028, v3072, v4096, v5122, v6145, v7172, v8192, v9216, v10240, v11264, v12288, v13312",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000003202",
+   "region": "KOR",
+   "name": "friends system-module",
+   "version": "v4096, v5122, v6145, v7172, v8192, v9216, v10240, v11264, v12288, v13312",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000003202",
+   "region": "EUR",
+   "name": "friends system-module",
+   "version": "v1028, v3072, v4096, v5122, v6145, v7172, v8192, v9216, v10240, v11264, v12288, v13312",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000003202",
+   "region": "TWN",
+   "name": "friends system-module",
+   "version": "v4096, v5122, v6145, v7172, v8192, v9216, v10240, v11264, v12288, v13312",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013000003203",
+   "region": "CHN",
+   "name": "SAFE_MODE friends system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000003203",
+   "region": "USA",
+   "name": "SAFE_MODE friends system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003203",
+   "region": "JPN",
+   "name": "SAFE_MODE friends system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003203",
+   "region": "KOR",
+   "name": "SAFE_MODE friends system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000003203",
+   "region": "EUR",
+   "name": "SAFE_MODE friends system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003203",
+   "region": "TWN",
+   "name": "SAFE_MODE friends system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000003302",
+   "region": "CHN",
+   "name": "IR system-module",
+   "version": "v4096, v5121, v6148, v8192, v9216, v10246, v11265, v12289, v13313",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
+ },
+ {
+   "titleid": "0004013000003302",
+   "region": "USA",
+   "name": "IR system-module",
+   "version": "v1026, v3072, v4096, v5121, v6148, v8192, v9216, v10246, v11265, v12289, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
+ },
+ {
+   "titleid": "0004013000003302",
+   "region": "JPN",
+   "name": "IR system-module",
+   "version": "v1026, v3072, v4096, v5121, v6148, v8192, v9216, v10246, v11265, v12289, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
+ },
+ {
+   "titleid": "0004013000003302",
+   "region": "KOR",
+   "name": "IR system-module",
+   "version": "v4096, v5121, v6148, v8192, v9216, v10246, v11265, v12289, v13313",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
+ },
+ {
+   "titleid": "0004013000003302",
+   "region": "EUR",
+   "name": "IR system-module",
+   "version": "v1026, v3072, v4096, v5121, v6148, v8192, v9216, v10246, v11265, v12289, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
+ },
+ {
+   "titleid": "0004013000003302",
+   "region": "TWN",
+   "name": "IR system-module",
+   "version": "v4096, v5121, v6148, v8192, v9216, v10246, v11265, v12289, v13313",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
+ },
+ {
+   "titleid": "0004013000003303",
+   "region": "CHN",
+   "name": "SAFE_MODE IR system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000003303",
+   "region": "USA",
+   "name": "SAFE_MODE IR system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003303",
+   "region": "JPN",
+   "name": "SAFE_MODE IR system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003303",
+   "region": "KOR",
+   "name": "SAFE_MODE IR system-module",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013000003303",
+   "region": "EUR",
+   "name": "SAFE_MODE IR system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000003303",
+   "region": "TWN",
+   "name": "SAFE_MODE IR system-module",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013000003402",
+   "region": "CHN",
+   "name": "SpotPass system-module",
+   "version": "v5122, v6146, v7169, v8193, v9222, v10240, v11266, v12289, v13314",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004013000003402",
+   "region": "USA",
+   "name": "SpotPass system-module",
+   "version": "v2053, v4101, v5122, v6146, v7169, v8193, v9222, v10240, v11266, v12289, v13314",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004013000003402",
+   "region": "JPN",
+   "name": "SpotPass system-module",
+   "version": "v2053, v4101, v5122, v6146, v7169, v8193, v9222, v10240, v11266, v12289, v13314",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004013000003402",
+   "region": "KOR",
+   "name": "SpotPass system-module",
+   "version": "v5122, v6146, v7169, v8193, v9222, v10240, v11266, v12289, v13314",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004013000003402",
+   "region": "EUR",
+   "name": "SpotPass system-module",
+   "version": "v2053, v4101, v5122, v6146, v7169, v8193, v9222, v10240, v11266, v12289, v13314",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 6.2.0-12E, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004013000003402",
+   "region": "TWN",
+   "name": "SpotPass system-module",
+   "version": "v5122, v6146, v7169, v8193, v9222, v10240, v11266, v12289, v13314",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.0.0-11, 6.2.0-12, 7.0.0-13, 8.0.0-18, 9.0.0-20, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004013000003502",
+   "region": "CHN",
+   "name": "Notifications system-module",
+   "version": "v3072, v4097, v5120, v6147, v7168",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.7.0-25"
+ },
+ {
+   "titleid": "0004013000003502",
+   "region": "USA",
+   "name": "Notifications system-module",
+   "version": "v1028, v3072, v4097, v5120, v6147, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.7.0-25"
+ },
+ {
+   "titleid": "0004013000003502",
+   "region": "JPN",
+   "name": "Notifications system-module",
+   "version": "v1028, v3072, v4097, v5120, v6147, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.7.0-25"
+ },
+ {
+   "titleid": "0004013000003502",
+   "region": "KOR",
+   "name": "Notifications system-module",
+   "version": "v3072, v4097, v5120, v6147, v7168",
+   "update_versions": "4.0.0-7, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.7.0-25"
+ },
+ {
+   "titleid": "0004013000003502",
+   "region": "EUR",
+   "name": "Notifications system-module",
+   "version": "v1028, v3072, v4097, v5120, v6147, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.7.0-25"
+ },
+ {
+   "titleid": "0004013000003502",
+   "region": "TWN",
+   "name": "Notifications system-module",
+   "version": "v3072, v4097, v5120, v6147, v7168",
+   "update_versions": "4.1.0-8, 5.0.0-11, 8.0.0-18, 9.0.0-20, 9.7.0-25"
+ },
+ {
+   "titleid": "0004013000003702",
+   "region": "CHN",
+   "name": "RO system-module",
+   "version": "v1024, v2049, v3074, v4096, v5120, v6148",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000003702",
+   "region": "USA",
+   "name": "RO system-module",
+   "version": "v0, v1024, v2049, v3074, v4096, v5120, v6148",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000003702",
+   "region": "JPN",
+   "name": "RO system-module",
+   "version": "v0, v1024, v2049, v3074, v4096, v5120, v6148",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000003702",
+   "region": "KOR",
+   "name": "RO system-module",
+   "version": "v1024, v2049, v3074, v4096, v5120, v6148",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000003702",
+   "region": "EUR",
+   "name": "RO system-module",
+   "version": "v0, v1024, v2049, v3074, v4096, v5120, v6148",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000003702",
+   "region": "TWN",
+   "name": "RO system-module",
+   "version": "v1024, v2049, v3074, v4096, v5120, v6148",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000008002",
+   "region": "CHN",
+   "name": "NS system-module",
+   "version": "v5121, v6148, v7168, v8193, v9216, v10248, v11268, v12291, v14336, v15360, v16390, v17408, v18433, v19458, v20482",
+   "update_versions": "4.0.0-7, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000008002",
+   "region": "USA",
+   "name": "NS system-module",
+   "version": "v1028, v3077, v5121, v6148, v7168, v8193, v9216, v10248, v11268, v12291, v14336, v15360, v16390, v17408, v18433, v19458, v20482",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000008002",
+   "region": "JPN",
+   "name": "NS system-module",
+   "version": "v1028, v3077, v5121, v6148, v7168, v8193, v9216, v10248, v11268, v12291, v14336, v15360, v16390, v17408, v18433, v19458, v20482",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000008002",
+   "region": "KOR",
+   "name": "NS system-module",
+   "version": "v5121, v6148, v7168, v8193, v9216, v10248, v11268, v12291, v14336, v15360, v16390, v17408, v18433, v19458, v20482",
+   "update_versions": "4.0.0-7, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000008002",
+   "region": "EUR",
+   "name": "NS system-module",
+   "version": "v1028, v3077, v5121, v6148, v7168, v8193, v9216, v10248, v11268, v12291, v14336, v15360, v16390, v17408, v18433, v19458, v20482",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000008002",
+   "region": "TWN",
+   "name": "NS system-module",
+   "version": "v5121, v6148, v7168, v8193, v9216, v10248, v11268, v12291, v14336, v15360, v16390, v17408, v18433, v19458, v20482",
+   "update_versions": "4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004013000008003",
+   "region": "USA",
+   "name": "SAFE_MODE NS system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000008003",
+   "region": "JPN",
+   "name": "SAFE_MODE NS system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013000008003",
+   "region": "EUR",
+   "name": "SAFE_MODE NS system-module",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004013800000002",
+   "region": "CHN",
+   "name": "NATIVE_FIRM",
+   "version": "v6677, v7712, v8758, v9792, v10833, v11872, v12916, v13956, v15047, v17120, v18182, v19216, v20262, v21288, v22313, v23341, v24368, v25396, v26432",
+   "update_versions": "4.0.0-7, 4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.2.0-28, 10.4.0-29, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013800000002",
+   "region": "USA",
+   "name": "NATIVE_FIRM",
+   "version": "v2516, v3553, v5647, v6677, v7712, v8758, v9792, v10833, v11872, v12916, v13956, v15047, v17120, v18182, v19216, v20262, v21288, v22313, v23341, v24368, v25396, v26432",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.2.0-28, 10.4.0-29, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013800000002",
+   "region": "JPN",
+   "name": "NATIVE_FIRM",
+   "version": "v2516, v3553, v5647, v6677, v7712, v8758, v9792, v10833, v11872, v12916, v13956, v15047, v17120, v18182, v19216, v20262, v21288, v22313, v23341, v24368, v25396, v26432",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.2.0-28, 10.4.0-29, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013800000002",
+   "region": "KOR",
+   "name": "NATIVE_FIRM",
+   "version": "v6677, v7712, v8758, v9792, v10833, v11872, v12916, v13956, v15047, v17120, v18182, v19216, v20262, v21288, v22313, v23341, v24368, v25396, v26432",
+   "update_versions": "4.0.0-7, 4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.2.0-28, 10.4.0-29, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013800000002",
+   "region": "EUR",
+   "name": "NATIVE_FIRM",
+   "version": "v2516, v3553, v5647, v6677, v7712, v8758, v9792, v10833, v11872, v12916, v13956, v15047, v17120, v18182, v19216, v20262, v21288, v22313, v23341, v24368, v25396, v26432",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.2.0-28, 10.4.0-29, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013800000002",
+   "region": "TWN",
+   "name": "NATIVE_FIRM",
+   "version": "v7712, v8758, v9792, v10833, v11872, v12916, v13956, v15047, v17120, v18182, v19216, v20262, v21288, v22313, v23341, v24368, v25396, v26432",
+   "update_versions": "4.1.0-8, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.2.0-28, 10.4.0-29, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004013800000003",
+   "region": "CHN",
+   "name": "SAFE_MODE_FIRM",
+   "version": "v5632",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013800000003",
+   "region": "USA",
+   "name": "SAFE_MODE_FIRM",
+   "version": "v432, v5632",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5"
+ },
+ {
+   "titleid": "0004013800000003",
+   "region": "JPN",
+   "name": "SAFE_MODE_FIRM",
+   "version": "v432, v5632",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5"
+ },
+ {
+   "titleid": "0004013800000003",
+   "region": "KOR",
+   "name": "SAFE_MODE_FIRM",
+   "version": "v5632",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013800000003",
+   "region": "EUR",
+   "name": "SAFE_MODE_FIRM",
+   "version": "v432, v5632",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5"
+ },
+ {
+   "titleid": "0004013800000003",
+   "region": "TWN",
+   "name": "SAFE_MODE_FIRM",
+   "version": "v5632",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004013800000102",
+   "region": "CHN",
+   "name": "TWL_FIRM",
+   "version": "v4625, v5681, v6704, v7762, v8817",
+   "update_versions": "4.0.0-7, 4.4.0-10, 4.5.0-10, 6.0.0-11, 6.2.0-12"
+ },
+ {
+   "titleid": "0004013800000102",
+   "region": "USA",
+   "name": "TWL_FIRM",
+   "version": "v1489, v2565, v4625, v5681, v6704, v7762, v8817",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.4.0-10, 4.5.0-10, 6.0.0-11, 6.2.0-12"
+ },
+ {
+   "titleid": "0004013800000102",
+   "region": "JPN",
+   "name": "TWL_FIRM",
+   "version": "v1489, v2565, v4625, v5681, v6704, v7762, v8817",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.4.0-10, 4.5.0-10, 6.0.0-11, 6.2.0-12"
+ },
+ {
+   "titleid": "0004013800000102",
+   "region": "KOR",
+   "name": "TWL_FIRM",
+   "version": "v4625, v5681, v6704, v7762, v8817",
+   "update_versions": "4.0.0-7, 4.4.0-10, 4.5.0-10, 6.0.0-11, 6.2.0-12"
+ },
+ {
+   "titleid": "0004013800000102",
+   "region": "EUR",
+   "name": "TWL_FIRM",
+   "version": "v1489, v2565, v4625, v5681, v6704, v7762, v8817",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.4.0-10, 4.5.0-10, 6.0.0-11, 6.2.0-12E"
+ },
+ {
+   "titleid": "0004013800000102",
+   "region": "TWN",
+   "name": "TWL_FIRM",
+   "version": "v4625, v5681, v6704, v7762, v8817",
+   "update_versions": "4.1.0-8, 4.4.0-10, 4.5.0-10, 6.0.0-11, 6.2.0-12"
+ },
+ {
+   "titleid": "0004800542383841",
+   "region": "CHN",
+   "name": "DS Internet (DSi-mode application)",
+   "version": "v2048",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004800542383841",
+   "region": "USA",
+   "name": "DS Internet (DSi-mode application)",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5"
+ },
+ {
+   "titleid": "0004800542383841",
+   "region": "JPN",
+   "name": "DS Internet (DSi-mode application)",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5"
+ },
+ {
+   "titleid": "0004800542383841",
+   "region": "KOR",
+   "name": "DS Internet (DSi-mode application)",
+   "version": "v2048",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004800542383841",
+   "region": "EUR",
+   "name": "DS Internet (DSi-mode application)",
+   "version": "v0, v1025, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5"
+ },
+ {
+   "titleid": "0004800542383841",
+   "region": "TWN",
+   "name": "DS Internet (DSi-mode application)",
+   "version": "v2048",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "00048005484E4441",
+   "region": "USA",
+   "name": "Download Play (DS-mode application)",
+   "version": "v1024",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "00048005484E4441",
+   "region": "JPN",
+   "name": "Download Play (DS-mode application)",
+   "version": "v1024",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "00048005484E4441",
+   "region": "EUR",
+   "name": "Download Play (DS-mode application)",
+   "version": "v1024",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "00048005484E4441",
+   "region": "TWN",
+   "name": "Download Play (DS-mode application)",
+   "version": "v1024",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004800F484E4841",
+   "region": "CHN",
+   "name": "Nintendo DS Cart Whitelist",
+   "version": "v4096, v5120, v6145, v7168, v8192, v9216, v10240, v11264",
+   "update_versions": "4.0.0-7, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004800F484E4841",
+   "region": "USA",
+   "name": "Nintendo DS Cart Whitelist",
+   "version": "v1026, v3072, v4096, v5120, v6145, v7168, v8192, v9216, v10240, v11264",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004800F484E4841",
+   "region": "JPN",
+   "name": "Nintendo DS Cart Whitelist",
+   "version": "v1026, v3072, v4096, v5120, v6145, v7168, v8192, v9216, v10240, v11264",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004800F484E4841",
+   "region": "KOR",
+   "name": "Nintendo DS Cart Whitelist",
+   "version": "v4096, v5120, v6145, v7168, v8192, v9216, v10240, v11264",
+   "update_versions": "4.0.0-7, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004800F484E4841",
+   "region": "EUR",
+   "name": "Nintendo DS Cart Whitelist",
+   "version": "v1026, v3072, v4096, v5120, v6145, v7168, v8192, v9216, v10240, v11264",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004800F484E4841",
+   "region": "TWN",
+   "name": "Nintendo DS Cart Whitelist",
+   "version": "v4096, v5120, v6145, v7168, v8192, v9216, v10240, v11264",
+   "update_versions": "4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004800F484E4C41",
+   "region": "CHN",
+   "name": "TWL Version Data",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004800F484E4C41",
+   "region": "USA",
+   "name": "TWL Version Data",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004800F484E4C41",
+   "region": "JPN",
+   "name": "TWL Version Data",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004800F484E4C41",
+   "region": "KOR",
+   "name": "TWL Version Data",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004800F484E4C41",
+   "region": "EUR",
+   "name": "TWL Version Data",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004800F484E4C41",
+   "region": "TWN",
+   "name": "TWL Version Data",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000022000",
+   "region": "EUR",
+   "name": "System Settings",
+   "version": "v1027, v2061, v3075, v4097, v5127, v6157, v7174, v8202, v9220",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000022100",
+   "region": "EUR",
+   "name": "Download Play application",
+   "version": "v0, v1026, v2051, v3073",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001000022200",
+   "region": "EUR",
+   "name": "Activity Log",
+   "version": "v1026, v2054, v2064",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000022300",
+   "region": "EUR",
+   "name": "Health and Safety Information",
+   "version": "v0, v1024, v2050, v3077",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000022400",
+   "region": "EUR",
+   "name": "Nintendo 3DS Camera application",
+   "version": "v0, v16, v1039, v2048, v3073, v3088, v4097",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 4.0.0-7, 6.0.0-11, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001000022500",
+   "region": "EUR",
+   "name": "Nintendo 3DS Sound application",
+   "version": "v0, v1027, v2049, v3072, v3088",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000022700",
+   "region": "EUR",
+   "name": "Mii Maker",
+   "version": "v1026, v2055",
+   "update_versions": "2.0.0-2_Initial_scan, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000022800",
+   "region": "EUR",
+   "name": "StreetPass Mii Plaza",
+   "version": "v1027, v2048, v3087, v4096, v5122",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 3.0.0-6, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000022900",
+   "region": "EUR",
+   "name": "eShop",
+   "version": "v4, v1026, v2058, v3081, v4096, v5123, v6146, v7171, v8206, v9231, v10245, v11265, v12288, v13320, v15366, v16384, v17421, v18432, v19465, v20482, v21505, v22528",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.4.0-29, 10.7.0-32, 11.2.0-35"
+ },
+ {
+   "titleid": "0004001000022A00",
+   "region": "EUR",
+   "name": "System Transfer application",
+   "version": "v4, v1035, v2050, v3073, v4109, v5131, v6155",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000022B00",
+   "region": "EUR",
+   "name": "Nintendo Zone application",
+   "version": "v0, v1034",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5"
+ },
+ {
+   "titleid": "0004001000022D00",
+   "region": "EUR",
+   "name": "Face Raiders",
+   "version": "v0, v1028, v1040",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000022E00",
+   "region": "EUR",
+   "name": "AR Games",
+   "version": "v0, v1026, v1040",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000022F00",
+   "region": "EUR",
+   "name": "SAFE_MODE System Updater application",
+   "version": "v0, v1024, v2050",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000025000",
+   "region": "EUR",
+   "name": "Promotional video application",
+   "version": "v2048",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004003000009802",
+   "region": "EUR",
+   "name": "Home Menu",
+   "version": "v1027, v2049, v4111, v5131, v6146, v7172, v8198, v9230, v11272, v13330, v14336, v15360, v16404, v17415, v19456, v20480, v21504, v22528, v23554, v24576, v25600",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 6.0.0-11, 7.0.0-13, 9.0.0-20, 9.3.0-21, 9.4.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.6.0-31, 11.1.0-34"
+ },
+ {
+   "titleid": "0004003000009902",
+   "region": "EUR",
+   "name": "Camera applet",
+   "version": "v0, v1036, v2049",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009B02",
+   "region": "EUR",
+   "name": "Instruction Manual applet",
+   "version": "v1026, v2048, v3072, v4097, v5120",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009C02",
+   "region": "EUR",
+   "name": "Game Notes applet",
+   "version": "v1026, v2049, v3073, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009D02",
+   "region": "EUR",
+   "name": "Internet Browser",
+   "version": "v6, v1024, v2050, v3074, v3088, v4096, v5121, v6149, v7168, v8192, v9232, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 5.0.0-11, 7.0.0-13, 7.1.0-16, 9.5.0-23, 9.9.0-26, 10.2.0-28, 10.6.0-31, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "0004003000009F02",
+   "region": "EUR",
+   "name": "Friend List applet",
+   "version": "v1026, v3082, v4099, v5120, v6144",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000A002",
+   "region": "EUR",
+   "name": "Notifications applet",
+   "version": "v1029, v2054, v3075, v4097",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000D002",
+   "region": "EUR",
+   "name": "Software Keyboard",
+   "version": "v1026, v2053, v3072, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000D003",
+   "region": "EUR",
+   "name": "SAFE_MODE Software Keyboard",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400300000D102",
+   "region": "EUR",
+   "name": "appletEd",
+   "version": "v0, v1026, v2048, v3077",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000D302",
+   "region": "EUR",
+   "name": "PNOTE_AP",
+   "version": "v0, v1024, v3075, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000D402",
+   "region": "EUR",
+   "name": "SNOTE_AP",
+   "version": "v3, v1026, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004009B00011202",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011302",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011502",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011702",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011802",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011B02",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00011C02",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00012102",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v1026, v2051, v3074, v4096, v5120, v6151, v7168, v8192, v9220, v10242, v11268, v12289, v13313",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29"
+ },
+ {
+   "titleid": "0004009B00013102",
+   "region": "EUR",
+   "name": "EULA CFA",
+   "version": "v1024, v2049, v3074, v4100, v5120, v6144, v7168",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13, 7.2.0-17, 9.0.0-20, 9.9.0-26, 10.4.0-29"
+ },
+ {
+   "titleid": "0004009B00015102",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v1024, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 7.0.0-13"
+ },
+ {
+   "titleid": "000400DB00016102",
+   "region": "EUR",
+   "name": "NVer",
+   "version": "v32, v48, v64, v80, v96, v112, v128, v144, v160, v176, v192, v208, v224, v240, v256, v272, v288, v304, v320, v336, v352, v368, v384, v400, v416, v432, v448, v464, v480, v496, v512, v528, v544, v560",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 2.1.0-4, 3.0.0-5, 3.0.0-6, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.1.0-14, 7.1.0-15, 7.1.0-16, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.5.0-23, 9.6.0-24, 9.7.0-25, 9.9.0-26, 10.0.0-27, 10.2.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "000400DB00017102",
+   "region": "EUR",
+   "name": "CVer",
+   "version": "v2049, v2069, v3088, v4098, v4113, v4130, v4145, v4163, v4176, v5120, v5136, v6146, v6160, v6178, v6192, v7175, v7187, v7203, v8196, v8208, v9218, v9264, v9280, v9296, v9319, v9328, v9344, v9360, v10240, v10256, v10272, v10288, v10304, v10320, v10336, v10352, v11264, v11280, v11296",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 6.2.0-12E, 6.3.0-12, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.3.0-21, 9.4.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.0.0-27, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004001000020000",
+   "region": "JPN",
+   "name": "System Settings",
+   "version": "v1027, v2060, v3074, v4097, v5127, v6157, v7173, v9224, v10245, v10256",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 9.0.0-20, 9.6.0-24, 10.6.0-31"
+ },
+ {
+   "titleid": "0004001000020100",
+   "region": "JPN",
+   "name": "Download Play application",
+   "version": "v0, v1026, v2051, v3072",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001000020200",
+   "region": "JPN",
+   "name": "Activity Log",
+   "version": "v1026, v2051, v2080",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 10.6.0-31"
+ },
+ {
+   "titleid": "0004001000020300",
+   "region": "JPN",
+   "name": "Health and Safety Information",
+   "version": "v0, v1024, v2050",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000020400",
+   "region": "JPN",
+   "name": "Nintendo 3DS Camera application",
+   "version": "v0, v16, v1038, v2048, v3073, v4097, v4112",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 4.0.0-7, 6.0.0-11, 9.0.0-20, 10.6.0-31"
+ },
+ {
+   "titleid": "0004001000020500",
+   "region": "JPN",
+   "name": "Nintendo 3DS Sound application",
+   "version": "v0, v1027, v2049, v3072, v3089, v3104",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 4.0.0-7, 7.0.0-13, 10.6.0-31"
+ },
+ {
+   "titleid": "0004001000020700",
+   "region": "JPN",
+   "name": "Mii Maker",
+   "version": "v1026, v2055, v2064",
+   "update_versions": "2.0.0-2_Initial_scan, 7.0.0-13, 10.6.0-31"
+ },
+ {
+   "titleid": "0004001000020800",
+   "region": "JPN",
+   "name": "StreetPass Mii Plaza",
+   "version": "v1027, v2048, v3087, v4096, v5121",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 3.0.0-5, 3.0.0-6, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000020900",
+   "region": "JPN",
+   "name": "eShop",
+   "version": "v4, v1026, v2057, v3081, v4096, v5123, v6146, v7169, v8206, v9231, v10245, v11265, v12288, v13320, v15366, v16384, v17421, v18432, v19465, v20483, v21504",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004001000020A00",
+   "region": "JPN",
+   "name": "System Transfer application",
+   "version": "v4, v1035, v2050, v3074, v4109, v5130, v6154",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 7.0.0-13, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000020B00",
+   "region": "JPN",
+   "name": "Nintendo Zone application",
+   "version": "v0, v1034",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5"
+ },
+ {
+   "titleid": "0004001000020D00",
+   "region": "JPN",
+   "name": "Face Raiders",
+   "version": "v0, v1028",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4"
+ },
+ {
+   "titleid": "0004001000020E00",
+   "region": "JPN",
+   "name": "AR Games",
+   "version": "v0, v1026",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4"
+ },
+ {
+   "titleid": "0004001000020F00",
+   "region": "JPN",
+   "name": "SAFE_MODE System Updater application",
+   "version": "v0, v1024, v2049",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000023000",
+   "region": "JPN",
+   "name": "Promotional video application",
+   "version": "v2048",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004003000008202",
+   "region": "JPN",
+   "name": "Home Menu",
+   "version": "v1027, v2049, v4111, v5131, v6146, v7172, v8197, v9230, v13313, v15360, v16402, v17408, v18432, v19476, v20487, v22528, v23552, v24576, v25600, v26626, v27648, v28672",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 6.0.0-11, 7.0.0-13, 9.0.0-20, 9.2.0-20, 9.3.0-21, 9.4.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.6.0-31, 11.1.0-34"
+ },
+ {
+   "titleid": "0004003000008402",
+   "region": "JPN",
+   "name": "Camera applet",
+   "version": "v0, v1036, v2049",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008602",
+   "region": "JPN",
+   "name": "Instruction Manual applet",
+   "version": "v1026, v2048, v3072, v4097, v5121",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 5.0.0-11, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008702",
+   "region": "JPN",
+   "name": "Game Notes applet",
+   "version": "v1026, v2049, v3073, v4097",
+   "update_versions": "2.0.0-2_Initial_scan, 4.0.0-7, 5.0.0-11, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008802",
+   "region": "JPN",
+   "name": "Internet Browser",
+   "version": "v6, v1024, v2050, v3075, v4096, v5121, v6149, v7168, v8192, v9232, v10240",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-4, 4.0.0-7, 5.0.0-11, 7.1.0-16, 9.5.0-23, 9.9.0-26, 10.2.0-28, 10.6.0-31, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "0004003000008D02",
+   "region": "JPN",
+   "name": "Friend List applet",
+   "version": "v1026, v3082, v4099, v5120, v6144",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008E02",
+   "region": "JPN",
+   "name": "Notifications applet",
+   "version": "v1029, v2054, v3075, v5121",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000C002",
+   "region": "JPN",
+   "name": "Software Keyboard",
+   "version": "v1026, v2053, v3072, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000C003",
+   "region": "JPN",
+   "name": "SAFE_MODE Software Keyboard",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400300000C102",
+   "region": "JPN",
+   "name": "appletEd",
+   "version": "v0, v1026, v2048, v3077",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000C302",
+   "region": "JPN",
+   "name": "PNOTE_AP",
+   "version": "v0, v1024, v3075, v4096",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000C402",
+   "region": "JPN",
+   "name": "SNOTE_AP",
+   "version": "v3, v1026, v2048",
+   "update_versions": "2.0.0-2_Initial_scan, 8.0.0-18, 9.0.0-20"
+ },
+ {
+   "titleid": "0004009B00011902",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00012202",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v1026, v2050, v3072, v4096, v5120, v6150, v7168, v8192, v9217, v10240, v11268, v12290, v13312, v13313, v14336",
+   "update_versions": "2.0.0-2_Initial_scan, 3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.4.0-29, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "0004009B00013202",
+   "region": "JPN",
+   "name": "EULA CFA",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "0004009B00015202",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v0",
+   "update_versions": "2.0.0-2_Initial_scan"
+ },
+ {
+   "titleid": "000400DB00016202",
+   "region": "JPN",
+   "name": "NVer",
+   "version": "v32, v48, v64, v80, v96, v112, v128, v144, v160, v176, v192, v208, v224, v240, v256, v272, v288, v304, v320, v336, v352, v368, v384, v400, v416, v432, v448, v464, v480, v496, v512, v528, v544, v560",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 2.1.0-4, 3.0.0-5, 3.0.0-6, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.1.0-14, 7.1.0-15, 7.1.0-16, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.5.0-23, 9.6.0-24, 9.7.0-25, 9.9.0-26, 10.0.0-27, 10.2.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "000400DB00017202",
+   "region": "JPN",
+   "name": "CVer",
+   "version": "v2049, v2069, v3088, v4098, v4113, v4130, v4145, v4163, v4176, v5120, v5136, v6146, v6160, v6178, v6192, v7175, v7187, v7203, v8196, v8208, v9218, v9248, v9264, v9280, v9296, v9319, v9328, v9344, v9360, v10240, v10256, v10272, v10288, v10304, v10320, v10336, v10352, v11264, v11280, v11296",
+   "update_versions": "2.0.0-2_Initial_scan, 2.1.0-3, 3.0.0-5, 4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 6.2.0-12, 6.3.0-12, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.2.0-20, 9.3.0-21, 9.4.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.0.0-27, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "0004001B00010702",
+   "region": "CHN",
+   "name": "NS CFA",
+   "version": "v0, v1028, v2048, v3073, v4096",
+   "update_versions": "4.0.0-7, 6.0.0-11, 6.3.0-12, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00010702",
+   "region": "USA",
+   "name": "NS CFA",
+   "version": "v0, v1028, v2048, v3073, v4096",
+   "update_versions": "3.0.0-5, 6.0.0-11, 6.3.0-12, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00010702",
+   "region": "JPN",
+   "name": "NS CFA",
+   "version": "v0, v1028, v2048, v3073, v4096",
+   "update_versions": "3.0.0-5, 6.0.0-11, 6.3.0-12, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00010702",
+   "region": "KOR",
+   "name": "NS CFA",
+   "version": "v0, v1028, v2048, v3073, v4096",
+   "update_versions": "4.0.0-7, 6.0.0-11, 6.3.0-12, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00010702",
+   "region": "EUR",
+   "name": "NS CFA",
+   "version": "v0, v1028, v2048, v3073, v4096",
+   "update_versions": "3.0.0-5, 6.0.0-11, 6.3.0-12, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00010702",
+   "region": "TWN",
+   "name": "NS CFA",
+   "version": "v0, v1028, v2048, v3073, v4096",
+   "update_versions": "4.1.0-8, 6.0.0-11, 6.3.0-12, 7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000CD02",
+   "region": "USA",
+   "name": "extrapad applet",
+   "version": "v1, v1026, v3073",
+   "update_versions": "3.0.0-5, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000CD02",
+   "region": "JPN",
+   "name": "extrapad applet",
+   "version": "v1, v1026, v3073",
+   "update_versions": "3.0.0-5, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000CD02",
+   "region": "EUR",
+   "name": "extrapad applet",
+   "version": "v1, v1026, v3073",
+   "update_versions": "3.0.0-5, 4.0.0-7, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000CE02",
+   "region": "USA",
+   "name": "mint (eShop applet)",
+   "version": "v5, v1028, v2050, v3072, v4109, v5125, v6145, v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384",
+   "update_versions": "3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004013800000202",
+   "region": "CHN",
+   "name": "AGB_FIRM",
+   "version": "v2576",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004013800000202",
+   "region": "USA",
+   "name": "AGB_FIRM",
+   "version": "v519, v2576, v3665",
+   "update_versions": "3.0.0-5, 4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013800000202",
+   "region": "JPN",
+   "name": "AGB_FIRM",
+   "version": "v519, v2576, v3665",
+   "update_versions": "3.0.0-5, 4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013800000202",
+   "region": "KOR",
+   "name": "AGB_FIRM",
+   "version": "v2576, v3665",
+   "update_versions": "4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013800000202",
+   "region": "EUR",
+   "name": "AGB_FIRM",
+   "version": "v519, v2576, v3665",
+   "update_versions": "3.0.0-5, 4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004013800000202",
+   "region": "TWN",
+   "name": "AGB_FIRM",
+   "version": "v2576",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000D602",
+   "region": "EUR",
+   "name": "mint (eShop applet)",
+   "version": "v5, v1028, v2050, v3073, v4109, v5125, v6145, v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384, v17408",
+   "update_versions": "3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32, 11.2.0-35"
+ },
+ {
+   "titleid": "000400300000C602",
+   "region": "JPN",
+   "name": "mint (eShop applet)",
+   "version": "v5, v1028, v2050, v3072, v4109, v5123, v6145, v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384",
+   "update_versions": "3.0.0-5, 4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004001000026000",
+   "region": "CHN",
+   "name": "System Settings",
+   "version": "v8, v1024, v2049, v3075",
+   "update_versions": "4.0.0-7, 4.4.0-10_MSet_CHN, 5.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000026100",
+   "region": "CHN",
+   "name": "Download Play application",
+   "version": "v4",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026200",
+   "region": "CHN",
+   "name": "Activity Log",
+   "version": "v3",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026300",
+   "region": "CHN",
+   "name": "Health and Safety Information",
+   "version": "v5",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026400",
+   "region": "CHN",
+   "name": "Nintendo 3DS Camera application",
+   "version": "v3",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026500",
+   "region": "CHN",
+   "name": "Nintendo 3DS Sound application",
+   "version": "v2",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026700",
+   "region": "CHN",
+   "name": "Mii Maker",
+   "version": "v1",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026800",
+   "region": "CHN",
+   "name": "StreetPass Mii Plaza",
+   "version": "v0, v4096",
+   "update_versions": "4.0.0-7, 4.4.0-10"
+ },
+ {
+   "titleid": "0004001000026D00",
+   "region": "CHN",
+   "name": "Face Raiders",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026E00",
+   "region": "CHN",
+   "name": "AR Games",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000026F00",
+   "region": "CHN",
+   "name": "SAFE_MODE System Updater application",
+   "version": "v1, v1026",
+   "update_versions": "4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "000400300000A102",
+   "region": "CHN",
+   "name": "Home Menu",
+   "version": "v15, v1026, v2052, v3074",
+   "update_versions": "4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "000400300000A202",
+   "region": "CHN",
+   "name": "Camera applet",
+   "version": "v3",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000A402",
+   "region": "CHN",
+   "name": "Instruction Manual applet",
+   "version": "v0, v4097",
+   "update_versions": "4.0.0-7, 5.0.0-11"
+ },
+ {
+   "titleid": "000400300000A502",
+   "region": "CHN",
+   "name": "Game Notes applet",
+   "version": "v0, v3073",
+   "update_versions": "4.0.0-7, 5.0.0-11"
+ },
+ {
+   "titleid": "000400300000A702",
+   "region": "CHN",
+   "name": "Friend List applet",
+   "version": "v5, v1024",
+   "update_versions": "4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "000400300000A802",
+   "region": "CHN",
+   "name": "Notifications applet",
+   "version": "v6",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000CF02",
+   "region": "CHN",
+   "name": "error applet",
+   "version": "v1, v1027",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000CF02",
+   "region": "KOR",
+   "name": "error applet",
+   "version": "v1, v1027",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000CF02",
+   "region": "TWN",
+   "name": "error applet",
+   "version": "v1, v1027",
+   "update_versions": "4.1.0-8, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000CF03",
+   "region": "CHN",
+   "name": "SAFE_MODE error applet",
+   "version": "v1",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000CF03",
+   "region": "KOR",
+   "name": "SAFE_MODE error applet",
+   "version": "v1",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000CF03",
+   "region": "TWN",
+   "name": "SAFE_MODE error applet",
+   "version": "v1",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000D502",
+   "region": "CHN",
+   "name": "extrapad applet",
+   "version": "v1026, v2049",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000D502",
+   "region": "KOR",
+   "name": "extrapad applet",
+   "version": "v1026, v2049",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000D502",
+   "region": "TWN",
+   "name": "extrapad applet",
+   "version": "v1026, v2049",
+   "update_versions": "4.1.0-8, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000D802",
+   "region": "CHN",
+   "name": "Software Keyboard",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000D803",
+   "region": "CHN",
+   "name": "SAFE_MODE Software Keyboard",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000D902",
+   "region": "CHN",
+   "name": "appletEd",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000DB02",
+   "region": "CHN",
+   "name": "PNOTE_AP",
+   "version": "v2",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000DC02",
+   "region": "CHN",
+   "name": "SNOTE_AP",
+   "version": "v2, v1026",
+   "update_versions": "4.0.0-7, 8.0.0-18"
+ },
+ {
+   "titleid": "0004009B00011002",
+   "region": "CHN",
+   "name": "N/A",
+   "version": "v1",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00012402",
+   "region": "CHN",
+   "name": "Error Strings CFA",
+   "version": "v1024, v2048, v3072, v4096, v5121",
+   "update_versions": "4.0.0-7, 4.2.0-9, 5.0.0-11, 9.0.0-20, 10.0.0-27"
+ },
+ {
+   "titleid": "0004009B00013402",
+   "region": "CHN",
+   "name": "EULA CFA",
+   "version": "v1024, v2048",
+   "update_versions": "4.0.0-7, 4.2.0-9"
+ },
+ {
+   "titleid": "000400DB00016402",
+   "region": "CHN",
+   "name": "NVer",
+   "version": "v113, v128, v129, v130, v131, v132",
+   "update_versions": "4.0.0-7, 4.2.0-9, 5.0.0-11, 7.1.0-16, 9.5.0-23, 9.9.0-26"
+ },
+ {
+   "titleid": "000400DB00017402",
+   "region": "CHN",
+   "name": "CVer",
+   "version": "v4098, v4113, v4130, v4145, v4163, v4176, v5120, v5136, v6144, v6160, v6178, v6192, v7175, v7187, v7203, v8196, v8208, v9217, v9264, v9296, v9319, v9328, v9344, v9360, v10240, v10272, v10304, v10320, v10336, v10352, v11264, v11280, v11296",
+   "update_versions": "4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 6.2.0-12, 6.3.0-12, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.0.0-27, 10.2.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "00048005484E4443",
+   "region": "CHN",
+   "name": "Download Play (DS-mode application)",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000027000",
+   "region": "KOR",
+   "name": "System Settings",
+   "version": "v1026, v2049, v3078, v4098, v5122, v6149",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.2.0-17, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000027100",
+   "region": "KOR",
+   "name": "Download Play application",
+   "version": "v1027, v2048",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000027200",
+   "region": "KOR",
+   "name": "Activity Log",
+   "version": "v2, v16",
+   "update_versions": "4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000027300",
+   "region": "KOR",
+   "name": "Health and Safety Information",
+   "version": "v2, v1027",
+   "update_versions": "4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "0004001000027400",
+   "region": "KOR",
+   "name": "Nintendo 3DS Camera application",
+   "version": "v2, v1027, v1040, v2049",
+   "update_versions": "4.0.0-7, 6.0.0-11, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000027500",
+   "region": "KOR",
+   "name": "Nintendo 3DS Sound application",
+   "version": "v2, v16",
+   "update_versions": "4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000027700",
+   "region": "KOR",
+   "name": "Mii Maker",
+   "version": "v1, v16",
+   "update_versions": "4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000027800",
+   "region": "KOR",
+   "name": "StreetPass Mii Plaza",
+   "version": "v1, v4096, v5120",
+   "update_versions": "4.0.0-7, 4.4.0-10, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000027900",
+   "region": "KOR",
+   "name": "eShop",
+   "version": "v3082, v4096, v5123, v6146, v7169, v8205, v9231, v10245, v11265, v12288, v13320, v15366, v16384, v17420, v18432, v19465, v20482, v21504",
+   "update_versions": "4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004001000027A00",
+   "region": "KOR",
+   "name": "System Transfer application",
+   "version": "v2, v1025, v2061, v3082, v4106",
+   "update_versions": "4.0.0-7, 5.0.0-11, 7.0.0-13, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000027D00",
+   "region": "KOR",
+   "name": "Face Raiders",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000027E00",
+   "region": "KOR",
+   "name": "AR Games",
+   "version": "v0, v16",
+   "update_versions": "4.0.0-7, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000027F00",
+   "region": "KOR",
+   "name": "SAFE_MODE System Updater application",
+   "version": "v1, v1025",
+   "update_versions": "4.0.0-7, 6.0.0-11"
+ },
+ {
+   "titleid": "000400300000A902",
+   "region": "KOR",
+   "name": "Home Menu",
+   "version": "v1035, v2050, v3076, v4101, v5122, v6166, v7175, v8192, v9216, v10240, v11266, v12288, v13312",
+   "update_versions": "4.0.0-7, 4.2.0-9, 5.0.0-11, 6.0.0-11, 7.0.0-13, 9.6.0-24, 9.7.0-25, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.6.0-31, 11.1.0-34"
+ },
+ {
+   "titleid": "000400300000AA02",
+   "region": "KOR",
+   "name": "Camera applet",
+   "version": "v3, v1024",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000AC02",
+   "region": "KOR",
+   "name": "Instruction Manual applet",
+   "version": "v0, v4097, v5121, v6144",
+   "update_versions": "4.0.0-7, 5.0.0-11, 6.4.0-12, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000AD02",
+   "region": "KOR",
+   "name": "Camera applet",
+   "version": "v1, v3073, v4096",
+   "update_versions": "4.0.0-7, 5.0.0-11, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000AF02",
+   "region": "KOR",
+   "name": "Friend List applet",
+   "version": "v1027, v2048, v3072",
+   "update_versions": "4.0.0-7, 7.0.0-13, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000B002",
+   "region": "KOR",
+   "name": "Notifications applet",
+   "version": "v1027, v2048",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000DE02",
+   "region": "KOR",
+   "name": "Software Keyboard",
+   "version": "v0, v1025",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000DE03",
+   "region": "KOR",
+   "name": "SAFE_MODE Software Keyboard",
+   "version": "v0",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "000400300000DF02",
+   "region": "KOR",
+   "name": "appletEd",
+   "version": "v0, v1026",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000E102",
+   "region": "KOR",
+   "name": "PNOTE_AP",
+   "version": "v2, v1025",
+   "update_versions": "4.0.0-7, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000E202",
+   "region": "KOR",
+   "name": "SNOTE_AP",
+   "version": "v2, v1026, v2048",
+   "update_versions": "4.0.0-7, 8.0.0-18, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000E302",
+   "region": "KOR",
+   "name": "mint (eShop applet)",
+   "version": "v1029, v2050, v3072, v4107, v5123, v6145, v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384",
+   "update_versions": "4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004009B00011A02",
+   "region": "KOR",
+   "name": "N/A",
+   "version": "v1",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00012502",
+   "region": "KOR",
+   "name": "Error Strings CFA",
+   "version": "v1024, v2048, v3072, v4098, v5120, v6148, v7169, v8193, v9216, v10240",
+   "update_versions": "4.0.0-7, 4.2.0-9, 5.0.0-11, 7.0.0-13, 9.0.0-20, 9.6.0-24, 10.0.0-27, 10.3.0-28, 10.4.0-29, 11.1.0-34"
+ },
+ {
+   "titleid": "0004009B00013502",
+   "region": "KOR",
+   "name": "EULA CFA",
+   "version": "v1025",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004009B00015502",
+   "region": "KOR",
+   "name": "N/A",
+   "version": "v0, v1024",
+   "update_versions": "4.0.0-7, 9.7.0-25"
+ },
+ {
+   "titleid": "000400DB00016502",
+   "region": "KOR",
+   "name": "NVer",
+   "version": "v113, v114, v133, v134, v135, v136, v144, v160, v176, v192, v208, v224, v240, v256, v272, v288, v304, v320, v336, v352, v368, v384, v400, v416, v432, v448, v464, v480, v496",
+   "update_versions": "4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 5.0.0-11, 6.0.0-11, 7.0.0-13, 7.1.0-14, 7.1.0-16, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.5.0-23, 9.6.0-24, 9.7.0-25, 9.9.0-26, 10.0.0-27, 10.2.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "000400DB00017502",
+   "region": "KOR",
+   "name": "CVer",
+   "version": "v4098, v4113, v4130, v4145, v4163, v4176, v5120, v5136, v6144, v6160, v6178, v6192, v6208, v7175, v7187, v7203, v8196, v8208, v9217, v9264, v9296, v9319, v9328, v9344, v9360, v10240, v10256, v10272, v10288, v10304, v10320, v10336, v10352, v11264, v11280, v11296",
+   "update_versions": "4.0.0-7, 4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 6.2.0-12, 6.3.0-12, 6.4.0-12, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.0.0-27, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "00048005484E444B",
+   "region": "KOR",
+   "name": "Download Play (DS-mode application)",
+   "version": "v1024",
+   "update_versions": "4.0.0-7"
+ },
+ {
+   "titleid": "0004001000028000",
+   "region": "TWN",
+   "name": "System Settings",
+   "version": "v8, v1024, v2050, v3074",
+   "update_versions": "4.1.0-8, 4.2.0-9, 5.0.0-11, 7.0.0-13"
+ },
+ {
+   "titleid": "0004001000028100",
+   "region": "TWN",
+   "name": "Download Play application",
+   "version": "v4",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028200",
+   "region": "TWN",
+   "name": "Activity Log",
+   "version": "v2",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028300",
+   "region": "TWN",
+   "name": "Health and Safety Information",
+   "version": "v5",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028400",
+   "region": "TWN",
+   "name": "Nintendo 3DS Camera application",
+   "version": "v3",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028500",
+   "region": "TWN",
+   "name": "Nintendo 3DS Sound application",
+   "version": "v3",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028700",
+   "region": "TWN",
+   "name": "Mii Maker",
+   "version": "v2",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028800",
+   "region": "TWN",
+   "name": "StreetPass Mii Plaza",
+   "version": "v1, v4096",
+   "update_versions": "4.1.0-8, 4.4.0-10"
+ },
+ {
+   "titleid": "0004001000028900",
+   "region": "TWN",
+   "name": "eShop",
+   "version": "v4096, v5123, v6146, v7170, v8205, v9231, v10245, v11265, v12288, v13320, v15366, v16384, v17421, v18432, v19465, v20482, v21504",
+   "update_versions": "4.1.0-8, 4.2.0-9, 4.3.0-10, 5.0.0-11, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004001000028A00",
+   "region": "TWN",
+   "name": "System Transfer application",
+   "version": "v2, v1025, v2061, v3082, v4105",
+   "update_versions": "4.1.0-8, 5.0.0-11, 7.0.0-13, 9.0.0-20, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001000028D00",
+   "region": "TWN",
+   "name": "Face Raiders",
+   "version": "v2",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028E00",
+   "region": "TWN",
+   "name": "AR Games",
+   "version": "v1",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004001000028F00",
+   "region": "TWN",
+   "name": "SAFE_MODE System Updater application",
+   "version": "v1, v1025",
+   "update_versions": "4.1.0-8, 6.0.0-11"
+ },
+ {
+   "titleid": "000400300000B102",
+   "region": "TWN",
+   "name": "Home Menu",
+   "version": "v15, v1026, v2052, v3074, v4096, v6146",
+   "update_versions": "4.1.0-8, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 9.9.0-26"
+ },
+ {
+   "titleid": "000400300000B202",
+   "region": "TWN",
+   "name": "Camera applet",
+   "version": "v3",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000B402",
+   "region": "TWN",
+   "name": "Instruction Manual applet",
+   "version": "v0, v4097, v5121",
+   "update_versions": "4.1.0-8, 5.0.0-11, 6.4.0-12"
+ },
+ {
+   "titleid": "000400300000B502",
+   "region": "TWN",
+   "name": "Game Notes applet",
+   "version": "v1, v3073",
+   "update_versions": "4.1.0-8, 5.0.0-11"
+ },
+ {
+   "titleid": "000400300000B702",
+   "region": "TWN",
+   "name": "Friend List applet",
+   "version": "v5, v1024",
+   "update_versions": "4.1.0-8, 7.0.0-13"
+ },
+ {
+   "titleid": "000400300000B802",
+   "region": "TWN",
+   "name": "Notifications applet",
+   "version": "v6",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000E402",
+   "region": "TWN",
+   "name": "Software Keyboard",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000E403",
+   "region": "TWN",
+   "name": "SAFE_MODE Software Keyboard",
+   "version": "v0",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000E502",
+   "region": "TWN",
+   "name": "appletEd",
+   "version": "v0, v1024",
+   "update_versions": "4.1.0-8, 9.9.0-26"
+ },
+ {
+   "titleid": "000400300000E702",
+   "region": "TWN",
+   "name": "PNOTE_AP",
+   "version": "v2",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "000400300000E802",
+   "region": "TWN",
+   "name": "SNOTE_AP",
+   "version": "v2, v1026",
+   "update_versions": "4.1.0-8, 8.0.0-18"
+ },
+ {
+   "titleid": "000400300000E902",
+   "region": "TWN",
+   "name": "mint (eShop applet)",
+   "version": "v1028, v2050, v3072, v4107, v5123, v6145, v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384",
+   "update_versions": "4.1.0-8, 4.2.0-9, 5.0.0-11, 7.0.0-13, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
+ },
+ {
+   "titleid": "0004009B00011102",
+   "region": "TWN",
+   "name": "N/A",
+   "version": "v1",
+   "update_versions": "4.1.0-8"
+ },
+ {
+   "titleid": "0004009B00012602",
+   "region": "TWN",
+   "name": "N/A",
+   "version": "v1024, v2048, v3072, v4099, v5120, v6145, v7169, v8192",
+   "update_versions": "4.1.0-8, 4.2.0-9, 5.0.0-11, 7.0.0-13, 9.0.0-20, 10.0.0-27, 10.3.0-28, 10.4.0-29"
+ },
+ {
+   "titleid": "0004009B00013602",
+   "region": "TWN",
+   "name": "EULA CFA",
+   "version": "v1026, v2050",
+   "update_versions": "4.1.0-8, 7.2.0-17"
+ },
+ {
+   "titleid": "0004009B00015602",
+   "region": "TWN",
+   "name": "N/A",
+   "version": "v0, v1024",
+   "update_versions": "4.1.0-8, 4.2.0-9"
+ },
+ {
+   "titleid": "000400DB00016602",
+   "region": "TWN",
+   "name": "NVer",
+   "version": "v114, v133, v134, v135, v136, v144, v160, v176, v192, v208, v224, v240, v256, v272, v288, v304, v320, v336, v352, v368, v384, v400, v416, v432, v448, v464, v480",
+   "update_versions": "4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 5.0.0-11, 7.0.0-13, 7.1.0-14, 7.1.0-16, 7.2.0-17, 8.0.0-18, 8.1.0-19, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.5.0-23, 9.6.0-24, 9.7.0-25, 9.9.0-26, 10.0.0-27, 10.2.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "000400DB00017602",
+   "region": "TWN",
+   "name": "CVer",
+   "version": "v4113, v4130, v4145, v4163, v4176, v5120, v5136, v6144, v6160, v6178, v6192, v6208, v7175, v7187, v7203, v8196, v8208, v9217, v9264, v9296, v9319, v9328, v9344, v9360, v10240, v10256, v10272, v10288, v10304, v10320, v10336, v10352, v11264, v11280, v11296",
+   "update_versions": "4.1.0-8, 4.2.0-9, 4.3.0-10, 4.4.0-10, 4.5.0-10, 5.0.0-11, 5.1.0-11, 6.0.0-11, 6.1.0-11, 6.2.0-12, 6.3.0-12, 6.4.0-12, 7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 8.1.0-18, 9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 9.7.0-25, 9.8.0-25, 9.9.0-26, 10.0.0-27, 10.1.0-27, 10.2.0-28, 10.3.0-28, 10.4.0-29, 10.5.0-30, 10.6.0-31, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
+ },
+ {
+   "titleid": "000400300000A602",
+   "region": "CHN",
+   "name": "Internet Browser",
+   "version": "v0, v1024, v3074, v4096, v5121, v6149, v7168, v8192, v9232, v10240",
+   "update_versions": "4.2.0-9, 4.5.0-10, 5.0.0-11, 7.1.0-16, 9.5.0-23, 9.9.0-26, 10.2.0-28, 10.6.0-31, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "000400300000AE02",
+   "region": "KOR",
+   "name": "Internet Browser",
+   "version": "v0, v3074, v3088, v4096, v5121, v6149, v7168, v8192, v9232, v10240",
+   "update_versions": "4.2.0-9, 5.0.0-11, 7.0.0-13, 7.1.0-16, 9.5.0-23, 9.9.0-26, 10.2.0-28, 10.6.0-31, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "000400300000B602",
+   "region": "TWN",
+   "name": "Internet Browser",
+   "version": "v0, v3074, v4096, v5121, v6149, v7168, v8192, v9232, v10240",
+   "update_versions": "4.2.0-9, 5.0.0-11, 7.1.0-16, 9.5.0-23, 9.9.0-26, 10.2.0-28, 10.6.0-31, 10.7.0-32, 11.1.0-34"
+ },
+ {
+   "titleid": "0004001B00010802",
+   "region": "CHN",
+   "name": "N/A",
+   "version": "v0, v1024, v2048, v3072",
+   "update_versions": "6.3.0-12, 9.5.0-23, 10.5.0-30, 11.0.0-33"
+ },
+ {
+   "titleid": "0004001B00010802",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v0, v1024, v2048, v3072",
+   "update_versions": "6.3.0-12, 9.5.0-23, 10.5.0-30, 11.0.0-33"
+ },
+ {
+   "titleid": "0004001B00010802",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v0, v1024, v2048, v3072",
+   "update_versions": "6.3.0-12, 9.5.0-23, 10.5.0-30, 11.0.0-33"
+ },
+ {
+   "titleid": "0004001B00010802",
+   "region": "KOR",
+   "name": "N/A",
+   "version": "v0, v1024, v2048, v3072",
+   "update_versions": "6.3.0-12, 9.5.0-23, 10.5.0-30, 11.0.0-33"
+ },
+ {
+   "titleid": "0004001B00010802",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v0, v1024, v2048, v3072",
+   "update_versions": "6.3.0-12, 9.5.0-23, 10.5.0-30, 11.0.0-33"
+ },
+ {
+   "titleid": "0004001B00010802",
+   "region": "TWN",
+   "name": "N/A",
+   "version": "v0, v1024, v2048, v3072",
+   "update_versions": "6.3.0-12, 9.5.0-23, 10.5.0-30, 11.0.0-33"
+ },
+ {
+   "titleid": "000400100002C000",
+   "region": "USA",
+   "name": "Nintendo Network ID Settings application",
+   "version": "v14, v1029, v2051, v3072",
+   "update_versions": "7.0.0-13, 7.2.0-17, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004001B00018002",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v14, v1025, v2055, v3078, v4096, v5120",
+   "update_versions": "7.0.0-13, 7.1.0-15, 7.2.0-17, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00018002",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v14, v1025, v2055, v3078, v4096, v5120",
+   "update_versions": "7.0.0-13, 7.1.0-15, 7.2.0-17, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00018002",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v14, v1025, v2055, v3078, v4096, v5120",
+   "update_versions": "7.0.0-13, 7.1.0-15, 7.2.0-17, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00018102",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v11, v1025",
+   "update_versions": "7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00018102",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v11, v1025",
+   "update_versions": "7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00018102",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v11, v1025",
+   "update_versions": "7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00018202",
+   "region": "USA",
+   "name": "N/A",
+   "version": "v7, v2050",
+   "update_versions": "7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00018202",
+   "region": "JPN",
+   "name": "N/A",
+   "version": "v7, v2050",
+   "update_versions": "7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "0004001B00018202",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v7, v2050",
+   "update_versions": "7.0.0-13, 9.0.0-20"
+ },
+ {
+   "titleid": "000400300000BD02",
+   "region": "USA",
+   "name": "Miiverse applet",
+   "version": "v14, v1024, v2048, v3072, v4096",
+   "update_versions": "7.0.0-13, 7.2.0-17, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000F602",
+   "region": "USA",
+   "name": "Miiverse memolib",
+   "version": "v5, v2050, v3072",
+   "update_versions": "7.0.0-13, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000F602",
+   "region": "JPN",
+   "name": "Miiverse memolib",
+   "version": "v5, v2050, v3072",
+   "update_versions": "7.0.0-13, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000F602",
+   "region": "EUR",
+   "name": "Miiverse memolib",
+   "version": "v5, v2050, v3072",
+   "update_versions": "7.0.0-13, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "0004013000003802",
+   "region": "CHN",
+   "name": "act system-module",
+   "version": "v1029, v2050, v3077, v4099, v6144, v7168, v8198",
+   "update_versions": "7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000003802",
+   "region": "USA",
+   "name": "act system-module",
+   "version": "v1029, v2050, v3077, v4099, v6144, v7168, v8198",
+   "update_versions": "7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000003802",
+   "region": "JPN",
+   "name": "act system-module",
+   "version": "v1029, v2050, v3077, v4099, v6144, v7168, v8198",
+   "update_versions": "7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000003802",
+   "region": "KOR",
+   "name": "act system-module",
+   "version": "v1029, v2050, v3077, v4099, v6144, v7168, v8198",
+   "update_versions": "7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000003802",
+   "region": "EUR",
+   "name": "act system-module",
+   "version": "v1029, v2050, v3077, v4099, v6144, v7168, v8198",
+   "update_versions": "7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000003802",
+   "region": "TWN",
+   "name": "act system-module",
+   "version": "v1029, v2050, v3077, v4099, v6144, v7168, v8198",
+   "update_versions": "7.0.0-13, 7.1.0-14, 7.2.0-17, 8.0.0-18, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "000400100002C100",
+   "region": "EUR",
+   "name": "Nintendo Network ID Settings application",
+   "version": "v14, v1029, v2051, v3072",
+   "update_versions": "7.0.0-13, 7.2.0-17, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000BE02",
+   "region": "EUR",
+   "name": "Miiverse applet",
+   "version": "v14, v1024, v2048, v3072, v4096",
+   "update_versions": "7.0.0-13, 7.2.0-17, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "000400100002BF00",
+   "region": "JPN",
+   "name": "Nintendo Network ID Settings application",
+   "version": "v14, v1029, v2051, v3072",
+   "update_versions": "7.0.0-13, 7.2.0-17, 9.0.0-20, 9.3.0-21"
+ },
+ {
+   "titleid": "000400300000BC02",
+   "region": "JPN",
+   "name": "Miiverse applet",
+   "version": "v14, v1024, v2051, v3072, v4096",
+   "update_versions": "7.0.0-13, 7.2.0-17, 9.0.0-20, 9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004003000008B02",
+   "region": "USA",
+   "name": "solv3 system-applet (Miiverse-posting applet)",
+   "version": "v6",
+   "update_versions": "9.0.0-20"
+ },
+ {
+   "titleid": "000400300000BA02",
+   "region": "EUR",
+   "name": "N/A",
+   "version": "v6",
+   "update_versions": "9.0.0-20"
+ },
+ {
+   "titleid": "0004003000008302",
+   "region": "JPN",
+   "name": "solv3 system-applet (Miiverse-posting applet)",
+   "version": "v6",
+   "update_versions": "9.0.0-20"
+ },
+ {
+   "titleid": "0004003000009E02",
+   "region": "USA",
+   "name": "amiibo Settings",
+   "version": "v7, v1031",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00019002",
+   "region": "CHN",
+   "name": "Fangate_updater",
+   "version": "v2, v1026",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00019002",
+   "region": "USA",
+   "name": "Fangate_updater",
+   "version": "v2, v1026",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00019002",
+   "region": "JPN",
+   "name": "Fangate_updater",
+   "version": "v2, v1026",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00019002",
+   "region": "KOR",
+   "name": "Fangate_updater",
+   "version": "v2, v1026",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00019002",
+   "region": "EUR",
+   "name": "Fangate_updater",
+   "version": "v2, v1026",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004001B00019002",
+   "region": "TWN",
+   "name": "Fangate_updater",
+   "version": "v2, v1026",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "000400300000B902",
+   "region": "EUR",
+   "name": "amiibo Settings",
+   "version": "v7, v1031",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004013000004002",
+   "region": "CHN",
+   "name": "Old3DS nfc system-module",
+   "version": "v2053, v4106, v5121, v6145, v7168, v8192",
+   "update_versions": "9.3.0-21, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.6.0-31, 10.7.0-32"
+ },
+ {
+   "titleid": "0004013000004002",
+   "region": "USA",
+   "name": "Old3DS nfc system-module",
+   "version": "v2053, v4106, v5121, v6145, v7168, v8192",
+   "update_versions": "9.3.0-21, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.6.0-31, 10.7.0-32"
+ },
+ {
+   "titleid": "0004013000004002",
+   "region": "JPN",
+   "name": "Old3DS nfc system-module",
+   "version": "v2053, v4106, v5121, v6145, v7168, v8192",
+   "update_versions": "9.3.0-21, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.6.0-31, 10.7.0-32"
+ },
+ {
+   "titleid": "0004013000004002",
+   "region": "KOR",
+   "name": "Old3DS nfc system-module",
+   "version": "v2053, v4106, v5121, v6145, v7168, v8192",
+   "update_versions": "9.3.0-21, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.6.0-31, 10.7.0-32"
+ },
+ {
+   "titleid": "0004013000004002",
+   "region": "EUR",
+   "name": "Old3DS nfc system-module",
+   "version": "v2053, v4106, v5121, v6145, v7168, v8192",
+   "update_versions": "9.3.0-21, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.6.0-31, 10.7.0-32"
+ },
+ {
+   "titleid": "0004013000004002",
+   "region": "TWN",
+   "name": "Old3DS nfc system-module",
+   "version": "v2053, v4106, v5121, v6145, v7168, v8192",
+   "update_versions": "9.3.0-21, 9.6.0-24, 9.7.0-25, 10.0.0-27, 10.6.0-31, 10.7.0-32"
+ },
+ {
+   "titleid": "0004003000009502",
+   "region": "JPN",
+   "name": "amiibo Settings",
+   "version": "v7, v1031",
+   "update_versions": "9.3.0-21, 9.6.0-24"
+ },
+ {
+   "titleid": "0004003000008C02",
+   "region": "KOR",
+   "name": "amiibo Settings",
+   "version": "v1031",
+   "update_versions": "9.6.0-24"
+ },
+ {
+   "titleid": "000400300000BF02",
+   "region": "CHN",
+   "name": "N/A",
+   "version": "v1024",
+   "update_versions": "10.6.0-31"
+ },
+ {
+   "titleid": "000400300000BF02",
+   "region": "TWN",
+   "name": "N/A",
+   "version": "v1024",
+   "update_versions": "9.9.0-26"
+ }
+]
