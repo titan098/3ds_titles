@@ -9,14 +9,14 @@
  {
    "titleid": "0004001000021100",
    "region": "USA",
-   "name": "Download Play application",
+   "name": "Download Play",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004001000021400",
    "region": "USA",
-   "name": "Nintendo 3DS Camera application",
+   "name": "Nintendo 3DS Camera",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
@@ -30,7 +30,7 @@
  {
    "titleid": "0004001000021A00",
    "region": "USA",
-   "name": "System Transfer application",
+   "name": "System Transfer",
    "version": "v5131, v6156",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
@@ -86,56 +86,56 @@
  {
    "titleid": "0004003000009002",
    "region": "USA",
-   "name": "Camera applet",
+   "name": "Camera",
    "version": "v2049",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009202",
    "region": "USA",
-   "name": "Instruction Manual applet",
+   "name": "Instruction Manual",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009302",
    "region": "USA",
-   "name": "Game Notes applet",
+   "name": "Game Notes",
    "version": "v4096",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009602",
    "region": "USA",
-   "name": "Friend List applet",
+   "name": "Friend List",
    "version": "v6144",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009702",
    "region": "USA",
-   "name": "Notifications applet",
+   "name": "Notifications",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400300000C502",
    "region": "USA",
-   "name": "error applet",
+   "name": "error",
    "version": "v5128, v6145",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "000400300000C502",
    "region": "JPN",
-   "name": "error applet",
+   "name": "error",
    "version": "v5128, v6145",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "000400300000C502",
    "region": "EUR",
-   "name": "error applet",
+   "name": "error",
    "version": "v5128, v6145",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
@@ -359,1036 +359,1036 @@
  {
    "titleid": "0004013000001502",
    "region": "CHN",
-   "name": "AM system-module",
+   "name": "AM",
    "version": "v8192, v9217",
    "update_versions": "9.0.0-20, 10.0.0-27"
  },
  {
    "titleid": "0004013000001502",
    "region": "USA",
-   "name": "AM system-module",
+   "name": "AM",
    "version": "v8192, v9217",
    "update_versions": "9.0.0-20, 10.0.0-27"
  },
  {
    "titleid": "0004013000001502",
    "region": "JPN",
-   "name": "AM system-module",
+   "name": "AM",
    "version": "v8192, v9217",
    "update_versions": "9.0.0-20, 10.0.0-27"
  },
  {
    "titleid": "0004013000001502",
    "region": "KOR",
-   "name": "AM system-module",
+   "name": "AM",
    "version": "v8192, v9217",
    "update_versions": "9.3.0-21, 10.0.0-27"
  },
  {
    "titleid": "0004013000001502",
    "region": "EUR",
-   "name": "AM system-module",
+   "name": "AM",
    "version": "v8192, v9217",
    "update_versions": "9.0.0-20, 10.0.0-27"
  },
  {
    "titleid": "0004013000001502",
    "region": "TWN",
-   "name": "AM system-module",
+   "name": "AM",
    "version": "v8192, v9217",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000001702",
    "region": "CHN",
-   "name": "Config system-module",
+   "name": "Config",
    "version": "v12290, v13315, v14342",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000001702",
    "region": "USA",
-   "name": "Config system-module",
+   "name": "Config",
    "version": "v12290, v13315, v14342",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000001702",
    "region": "JPN",
-   "name": "Config system-module",
+   "name": "Config",
    "version": "v12290, v13315, v14342",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000001702",
    "region": "KOR",
-   "name": "Config system-module",
+   "name": "Config",
    "version": "v13315, v14342",
    "update_versions": "9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000001702",
    "region": "EUR",
-   "name": "Config system-module",
+   "name": "Config",
    "version": "v12290, v13315, v14342",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000001702",
    "region": "TWN",
-   "name": "Config system-module",
+   "name": "Config",
    "version": "v12290, v13315, v14342",
    "update_versions": "9.0.0-20, 9.3.0-21, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000001802",
    "region": "CHN",
-   "name": "Codec system-module",
+   "name": "Codec",
    "version": "v7168",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000001802",
    "region": "USA",
-   "name": "Codec system-module",
+   "name": "Codec",
    "version": "v7168",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000001802",
    "region": "JPN",
-   "name": "Codec system-module",
+   "name": "Codec",
    "version": "v7168",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000001802",
    "region": "KOR",
-   "name": "Codec system-module",
+   "name": "Codec",
    "version": "v7168",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000001802",
    "region": "EUR",
-   "name": "Codec system-module",
+   "name": "Codec",
    "version": "v7168",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000001802",
    "region": "TWN",
-   "name": "Codec system-module",
+   "name": "Codec",
    "version": "v7168",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000001A02",
    "region": "CHN",
-   "name": "DSP system-module",
+   "name": "DSP",
    "version": "v6145, v7169",
    "update_versions": "9.7.0-25, 11.1.0-34"
  },
  {
    "titleid": "0004013000001A02",
    "region": "USA",
-   "name": "DSP system-module",
+   "name": "DSP",
    "version": "v6145, v7169",
    "update_versions": "9.7.0-25, 11.1.0-34"
  },
  {
    "titleid": "0004013000001A02",
    "region": "JPN",
-   "name": "DSP system-module",
+   "name": "DSP",
    "version": "v6145, v7169",
    "update_versions": "9.7.0-25, 11.1.0-34"
  },
  {
    "titleid": "0004013000001A02",
    "region": "KOR",
-   "name": "DSP system-module",
+   "name": "DSP",
    "version": "v6145, v7169",
    "update_versions": "9.7.0-25, 11.1.0-34"
  },
  {
    "titleid": "0004013000001A02",
    "region": "EUR",
-   "name": "DSP system-module",
+   "name": "DSP",
    "version": "v6145, v7169",
    "update_versions": "9.7.0-25, 11.1.0-34"
  },
  {
    "titleid": "0004013000001A02",
    "region": "TWN",
-   "name": "DSP system-module",
+   "name": "DSP",
    "version": "v6145, v7169",
    "update_versions": "08-18-16_TWN_BeginScanning, 11.1.0-34"
  },
  {
    "titleid": "0004013000001B02",
    "region": "CHN",
-   "name": "GPIO system-module",
+   "name": "GPIO",
    "version": "v3073",
    "update_versions": "02-11-15_GPIO"
  },
  {
    "titleid": "0004013000001B02",
    "region": "USA",
-   "name": "GPIO system-module",
+   "name": "GPIO",
    "version": "v3073",
    "update_versions": "9.5.0-22"
  },
  {
    "titleid": "0004013000001B02",
    "region": "JPN",
-   "name": "GPIO system-module",
+   "name": "GPIO",
    "version": "v3073",
    "update_versions": "9.5.0-22"
  },
  {
    "titleid": "0004013000001B02",
    "region": "KOR",
-   "name": "GPIO system-module",
+   "name": "GPIO",
    "version": "v3073",
    "update_versions": "02-11-15_GPIO"
  },
  {
    "titleid": "0004013000001B02",
    "region": "EUR",
-   "name": "GPIO system-module",
+   "name": "GPIO",
    "version": "v3073",
    "update_versions": "9.5.0-22"
  },
  {
    "titleid": "0004013000001B02",
    "region": "TWN",
-   "name": "GPIO system-module",
+   "name": "GPIO",
    "version": "v3073",
    "update_versions": "08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000001D02",
    "region": "CHN",
-   "name": "HID system-module",
+   "name": "HID",
    "version": "v9216, v10240",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000001D02",
    "region": "USA",
-   "name": "HID system-module",
+   "name": "HID",
    "version": "v9216, v10240",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000001D02",
    "region": "JPN",
-   "name": "HID system-module",
+   "name": "HID",
    "version": "v9216, v10240",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000001D02",
    "region": "KOR",
-   "name": "HID system-module",
+   "name": "HID",
    "version": "v10240",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000001D02",
    "region": "EUR",
-   "name": "HID system-module",
+   "name": "HID",
    "version": "v9216, v10240",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000001D02",
    "region": "TWN",
-   "name": "HID system-module",
+   "name": "HID",
    "version": "v9216, v10240",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000002402",
    "region": "CHN",
-   "name": "AC system-module",
+   "name": "AC",
    "version": "v8192, v9216",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000002402",
    "region": "USA",
-   "name": "AC system-module",
+   "name": "AC",
    "version": "v8192, v9216",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000002402",
    "region": "JPN",
-   "name": "AC system-module",
+   "name": "AC",
    "version": "v8192, v9216",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000002402",
    "region": "KOR",
-   "name": "AC system-module",
+   "name": "AC",
    "version": "v9216",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000002402",
    "region": "EUR",
-   "name": "AC system-module",
+   "name": "AC",
    "version": "v8192, v9216",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000002402",
    "region": "TWN",
-   "name": "AC system-module",
+   "name": "AC",
    "version": "v8192, v9216",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000002602",
    "region": "CHN",
-   "name": "StreetPass system-module",
+   "name": "StreetPass",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002602",
    "region": "USA",
-   "name": "StreetPass system-module",
+   "name": "StreetPass",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002602",
    "region": "JPN",
-   "name": "StreetPass system-module",
+   "name": "StreetPass",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002602",
    "region": "KOR",
-   "name": "StreetPass system-module",
+   "name": "StreetPass",
    "version": "v10240",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000002602",
    "region": "EUR",
-   "name": "StreetPass system-module",
+   "name": "StreetPass",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002602",
    "region": "TWN",
-   "name": "StreetPass system-module",
+   "name": "StreetPass",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002702",
    "region": "CHN",
-   "name": "CSND system-module",
+   "name": "CSND",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002702",
    "region": "USA",
-   "name": "CSND system-module",
+   "name": "CSND",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002702",
    "region": "JPN",
-   "name": "CSND system-module",
+   "name": "CSND",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002702",
    "region": "KOR",
-   "name": "CSND system-module",
+   "name": "CSND",
    "version": "v5120",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000002702",
    "region": "EUR",
-   "name": "CSND system-module",
+   "name": "CSND",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002702",
    "region": "TWN",
-   "name": "CSND system-module",
+   "name": "CSND",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002802",
    "region": "CHN",
-   "name": "Download Play system-module",
+   "name": "Download Play",
    "version": "v6145, v7174, v8192",
    "update_versions": "9.0.0-20, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002802",
    "region": "USA",
-   "name": "Download Play system-module",
+   "name": "Download Play",
    "version": "v6145, v7174, v8192",
    "update_versions": "9.0.0-20, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002802",
    "region": "JPN",
-   "name": "Download Play system-module",
+   "name": "Download Play",
    "version": "v6145, v7174, v8192",
    "update_versions": "9.0.0-20, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002802",
    "region": "KOR",
-   "name": "Download Play system-module",
+   "name": "Download Play",
    "version": "v6145, v7174, v8192",
    "update_versions": "9.3.0-21, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002802",
    "region": "EUR",
-   "name": "Download Play system-module",
+   "name": "Download Play",
    "version": "v6145, v7174, v8192",
    "update_versions": "9.0.0-20, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002802",
    "region": "TWN",
-   "name": "Download Play system-module",
+   "name": "Download Play",
    "version": "v6145, v8192",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000002902",
    "region": "CHN",
-   "name": "HTTP system-module",
+   "name": "HTTP",
    "version": "v12288, v13318",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002902",
    "region": "USA",
-   "name": "HTTP system-module",
+   "name": "HTTP",
    "version": "v12288, v13318",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002902",
    "region": "JPN",
-   "name": "HTTP system-module",
+   "name": "HTTP",
    "version": "v12288, v13318",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002902",
    "region": "KOR",
-   "name": "HTTP system-module",
+   "name": "HTTP",
    "version": "v12288, v13318",
    "update_versions": "9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000002902",
    "region": "EUR",
-   "name": "HTTP system-module",
+   "name": "HTTP",
    "version": "v12288, v13318",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002902",
    "region": "TWN",
-   "name": "HTTP system-module",
+   "name": "HTTP",
    "version": "v12288, v13318",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000002B02",
    "region": "CHN",
-   "name": "NDM system-module",
+   "name": "NDM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002B02",
    "region": "USA",
-   "name": "NDM system-module",
+   "name": "NDM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002B02",
    "region": "JPN",
-   "name": "NDM system-module",
+   "name": "NDM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002B02",
    "region": "KOR",
-   "name": "NDM system-module",
+   "name": "NDM",
    "version": "v7169",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000002B02",
    "region": "EUR",
-   "name": "NDM system-module",
+   "name": "NDM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002B02",
    "region": "TWN",
-   "name": "NDM system-module",
+   "name": "NDM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002C02",
    "region": "CHN",
-   "name": "NIM system-module",
+   "name": "NIM",
    "version": "v10249, v11267, v12296, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002C02",
    "region": "USA",
-   "name": "NIM system-module",
+   "name": "NIM",
    "version": "v10249, v11267, v12296, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002C02",
    "region": "JPN",
-   "name": "NIM system-module",
+   "name": "NIM",
    "version": "v10249, v11267, v12296, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002C02",
    "region": "KOR",
-   "name": "NIM system-module",
+   "name": "NIM",
    "version": "v11267, v12296, v13313",
    "update_versions": "9.3.0-21, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002C02",
    "region": "EUR",
-   "name": "NIM system-module",
+   "name": "NIM",
    "version": "v10249, v11267, v12296, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27"
  },
  {
    "titleid": "0004013000002C02",
    "region": "TWN",
-   "name": "NIM system-module",
+   "name": "NIM",
    "version": "v10249, v11267, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000002D02",
    "region": "CHN",
-   "name": "NWM system-module",
+   "name": "NWM",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002D02",
    "region": "USA",
-   "name": "NWM system-module",
+   "name": "NWM",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002D02",
    "region": "JPN",
-   "name": "NWM system-module",
+   "name": "NWM",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002D02",
    "region": "KOR",
-   "name": "NWM system-module",
+   "name": "NWM",
    "version": "v10240",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000002D02",
    "region": "EUR",
-   "name": "NWM system-module",
+   "name": "NWM",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002D02",
    "region": "TWN",
-   "name": "NWM system-module",
+   "name": "NWM",
    "version": "v10240",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000002E02",
    "region": "CHN",
-   "name": "Sockets system-module",
+   "name": "Sockets",
    "version": "v7168, v8192",
    "update_versions": "9.0.0-20, 10.6.0-31"
  },
  {
    "titleid": "0004013000002E02",
    "region": "USA",
-   "name": "Sockets system-module",
+   "name": "Sockets",
    "version": "v7168, v8192",
    "update_versions": "9.0.0-20, 10.6.0-31"
  },
  {
    "titleid": "0004013000002E02",
    "region": "JPN",
-   "name": "Sockets system-module",
+   "name": "Sockets",
    "version": "v7168, v8192",
    "update_versions": "9.0.0-20, 10.6.0-31"
  },
  {
    "titleid": "0004013000002E02",
    "region": "KOR",
-   "name": "Sockets system-module",
+   "name": "Sockets",
    "version": "v7168, v8192",
    "update_versions": "9.3.0-21, 10.6.0-31"
  },
  {
    "titleid": "0004013000002E02",
    "region": "EUR",
-   "name": "Sockets system-module",
+   "name": "Sockets",
    "version": "v7168, v8192",
    "update_versions": "9.0.0-20, 10.6.0-31"
  },
  {
    "titleid": "0004013000002E02",
    "region": "TWN",
-   "name": "Sockets system-module",
+   "name": "Sockets",
    "version": "v7168, v8192",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000002F02",
    "region": "CHN",
-   "name": "SSL system-module",
+   "name": "SSL",
    "version": "v7168, v8198",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002F02",
    "region": "USA",
-   "name": "SSL system-module",
+   "name": "SSL",
    "version": "v7168, v8198",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002F02",
    "region": "JPN",
-   "name": "SSL system-module",
+   "name": "SSL",
    "version": "v7168, v8198",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002F02",
    "region": "KOR",
-   "name": "SSL system-module",
+   "name": "SSL",
    "version": "v7168, v8198",
    "update_versions": "9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000002F02",
    "region": "EUR",
-   "name": "SSL system-module",
+   "name": "SSL",
    "version": "v7168, v8198",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013000002F02",
    "region": "TWN",
-   "name": "SSL system-module",
+   "name": "SSL",
    "version": "v7168, v8198",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000003102",
    "region": "CHN",
-   "name": "PS system-module",
+   "name": "PS",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000003102",
    "region": "USA",
-   "name": "PS system-module",
+   "name": "PS",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000003102",
    "region": "JPN",
-   "name": "PS system-module",
+   "name": "PS",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000003102",
    "region": "KOR",
-   "name": "PS system-module",
+   "name": "PS",
    "version": "v5120",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000003102",
    "region": "EUR",
-   "name": "PS system-module",
+   "name": "PS",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000003102",
    "region": "TWN",
-   "name": "PS system-module",
+   "name": "PS",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013000003202",
    "region": "CHN",
-   "name": "friends system-module",
+   "name": "friends",
    "version": "v8192, v9216, v10240, v11264, v12288, v13312",
    "update_versions": "9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
  },
  {
    "titleid": "0004013000003202",
    "region": "USA",
-   "name": "friends system-module",
+   "name": "friends",
    "version": "v8192, v9216, v10240, v11264, v12288, v13312",
    "update_versions": "9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
  },
  {
    "titleid": "0004013000003202",
    "region": "JPN",
-   "name": "friends system-module",
+   "name": "friends",
    "version": "v8192, v9216, v10240, v11264, v12288, v13312",
    "update_versions": "9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
  },
  {
    "titleid": "0004013000003202",
    "region": "KOR",
-   "name": "friends system-module",
+   "name": "friends",
    "version": "v8192, v9216, v10240, v11264, v12288, v13312",
    "update_versions": "9.3.0-21, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
  },
  {
    "titleid": "0004013000003202",
    "region": "EUR",
-   "name": "friends system-module",
+   "name": "friends",
    "version": "v8192, v9216, v10240, v11264, v12288, v13312",
    "update_versions": "9.0.0-20, 10.5.0-30, 10.7.0-32, 11.0.0-33, 11.1.0-34, 11.2.0-35"
  },
  {
    "titleid": "0004013000003202",
    "region": "TWN",
-   "name": "friends system-module",
+   "name": "friends",
    "version": "v8192, v11264, v12288, v13312",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning, 11.1.0-34, 11.2.0-35"
  },
  {
    "titleid": "0004013000003302",
    "region": "CHN",
-   "name": "IR system-module",
+   "name": "IR",
    "version": "v8192, v9216, v10246, v11265, v12289, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
  },
  {
    "titleid": "0004013000003302",
    "region": "USA",
-   "name": "IR system-module",
+   "name": "IR",
    "version": "v8192, v9216, v10246, v11265, v12289, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
  },
  {
    "titleid": "0004013000003302",
    "region": "JPN",
-   "name": "IR system-module",
+   "name": "IR",
    "version": "v8192, v9216, v10246, v11265, v12289, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
  },
  {
    "titleid": "0004013000003302",
    "region": "KOR",
-   "name": "IR system-module",
+   "name": "IR",
    "version": "v9216, v10246, v11265, v12289, v13313",
    "update_versions": "9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
  },
  {
    "titleid": "0004013000003302",
    "region": "EUR",
-   "name": "IR system-module",
+   "name": "IR",
    "version": "v8192, v9216, v10246, v11265, v12289, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 10.0.0-27, 10.6.0-31, 11.0.0-33"
  },
  {
    "titleid": "0004013000003302",
    "region": "TWN",
-   "name": "IR system-module",
+   "name": "IR",
    "version": "v8192, v9216, v13313",
    "update_versions": "9.0.0-20, 9.3.0-21, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000003402",
    "region": "CHN",
-   "name": "SpotPass system-module",
+   "name": "SpotPass",
    "version": "v11266, v12289, v13314",
    "update_versions": "9.0.0-20, 10.0.0-27, 10.4.0-29"
  },
  {
    "titleid": "0004013000003402",
    "region": "USA",
-   "name": "SpotPass system-module",
+   "name": "SpotPass",
    "version": "v11266, v12289, v13314",
    "update_versions": "9.0.0-20, 10.0.0-27, 10.4.0-29"
  },
  {
    "titleid": "0004013000003402",
    "region": "JPN",
-   "name": "SpotPass system-module",
+   "name": "SpotPass",
    "version": "v11266, v12289, v13314",
    "update_versions": "9.0.0-20, 10.0.0-27, 10.4.0-29"
  },
  {
    "titleid": "0004013000003402",
    "region": "KOR",
-   "name": "SpotPass system-module",
+   "name": "SpotPass",
    "version": "v11266, v12289, v13314",
    "update_versions": "9.3.0-21, 10.0.0-27, 10.4.0-29"
  },
  {
    "titleid": "0004013000003402",
    "region": "EUR",
-   "name": "SpotPass system-module",
+   "name": "SpotPass",
    "version": "v11266, v12289, v13314",
    "update_versions": "9.0.0-20, 10.0.0-27, 10.4.0-29"
  },
  {
    "titleid": "0004013000003402",
    "region": "TWN",
-   "name": "SpotPass system-module",
+   "name": "SpotPass",
    "version": "v11266, v13314",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000003502",
    "region": "CHN",
-   "name": "Notifications system-module",
+   "name": "Notifications",
    "version": "v6147, v7168",
    "update_versions": "9.0.0-20, 9.7.0-25"
  },
  {
    "titleid": "0004013000003502",
    "region": "USA",
-   "name": "Notifications system-module",
+   "name": "Notifications",
    "version": "v6147, v7168",
    "update_versions": "9.0.0-20, 9.7.0-25"
  },
  {
    "titleid": "0004013000003502",
    "region": "JPN",
-   "name": "Notifications system-module",
+   "name": "Notifications",
    "version": "v6147, v7168",
    "update_versions": "9.0.0-20, 9.7.0-25"
  },
  {
    "titleid": "0004013000003502",
    "region": "KOR",
-   "name": "Notifications system-module",
+   "name": "Notifications",
    "version": "v6147, v7168",
    "update_versions": "9.3.0-21, 9.7.0-25"
  },
  {
    "titleid": "0004013000003502",
    "region": "EUR",
-   "name": "Notifications system-module",
+   "name": "Notifications",
    "version": "v6147, v7168",
    "update_versions": "9.0.0-20, 9.7.0-25"
  },
  {
    "titleid": "0004013000003502",
    "region": "TWN",
-   "name": "Notifications system-module",
+   "name": "Notifications",
    "version": "v6147, v7168",
    "update_versions": "9.0.0-20, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "0004013000003702",
    "region": "CHN",
-   "name": "RO system-module",
+   "name": "RO",
    "version": "v5120, v6148",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000003702",
    "region": "USA",
-   "name": "RO system-module",
+   "name": "RO",
    "version": "v5120, v6148",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000003702",
    "region": "JPN",
-   "name": "RO system-module",
+   "name": "RO",
    "version": "v5120, v6148",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000003702",
    "region": "KOR",
-   "name": "RO system-module",
+   "name": "RO",
    "version": "v6148",
    "update_versions": "9.3.0-21"
  },
  {
    "titleid": "0004013000003702",
    "region": "EUR",
-   "name": "RO system-module",
+   "name": "RO",
    "version": "v5120, v6148",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000003702",
    "region": "TWN",
-   "name": "RO system-module",
+   "name": "RO",
    "version": "v5120, v6148",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013000008002",
    "region": "CHN",
-   "name": "NS system-module",
+   "name": "NS",
    "version": "v14336, v15360, v16390, v17408, v18433, v19458, v20482",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
  },
  {
    "titleid": "0004013000008002",
    "region": "USA",
-   "name": "NS system-module",
+   "name": "NS",
    "version": "v14336, v15360, v16390, v17408, v18433, v19458, v20482",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
  },
  {
    "titleid": "0004013000008002",
    "region": "JPN",
-   "name": "NS system-module",
+   "name": "NS",
    "version": "v14336, v15360, v16390, v17408, v18433, v19458, v20482",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
  },
  {
    "titleid": "0004013000008002",
    "region": "KOR",
-   "name": "NS system-module",
+   "name": "NS",
    "version": "v15360, v16390, v17408, v18433, v19458, v20482",
    "update_versions": "9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
  },
  {
    "titleid": "0004013000008002",
    "region": "EUR",
-   "name": "NS system-module",
+   "name": "NS",
    "version": "v14336, v15360, v16390, v17408, v18433, v19458, v20482",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.4.0-29, 11.1.0-34"
  },
  {
    "titleid": "0004013000008002",
    "region": "TWN",
-   "name": "NS system-module",
+   "name": "NS",
    "version": "v14336, v15360, v19458, v20482",
    "update_versions": "9.0.0-20, 9.3.0-21, 08-18-16_TWN_BeginScanning, 11.1.0-34"
  },
  {
    "titleid": "0004800542383841",
    "region": "CHN",
-   "name": "DS Internet (DSi-mode application)",
+   "name": "DS Internet (DSi-mode)",
    "version": "v2048",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004800542383841",
    "region": "USA",
-   "name": "DS Internet (DSi-mode application)",
+   "name": "DS Internet (DSi-mode)",
    "version": "v2048",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004800542383841",
    "region": "JPN",
-   "name": "DS Internet (DSi-mode application)",
+   "name": "DS Internet (DSi-mode)",
    "version": "v2048",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004800542383841",
    "region": "KOR",
-   "name": "DS Internet (DSi-mode application)",
+   "name": "DS Internet (DSi-mode)",
    "version": "v2048",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004800542383841",
    "region": "EUR",
-   "name": "DS Internet (DSi-mode application)",
+   "name": "DS Internet (DSi-mode)",
    "version": "v2048",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004800542383841",
    "region": "TWN",
-   "name": "DS Internet (DSi-mode application)",
+   "name": "DS Internet (DSi-mode)",
    "version": "v2048",
    "update_versions": "08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "00048005484E4441",
    "region": "USA",
-   "name": "Download Play (DS-mode application)",
+   "name": "Download Play (DS-mode)",
    "version": "v1024",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "00048005484E4441",
    "region": "JPN",
-   "name": "Download Play (DS-mode application)",
+   "name": "Download Play (DS-mode)",
    "version": "v1024",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "00048005484E4441",
    "region": "EUR",
-   "name": "Download Play (DS-mode application)",
+   "name": "Download Play (DS-mode)",
    "version": "v1024",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "00048005484E4441",
    "region": "TWN",
-   "name": "Download Play (DS-mode application)",
+   "name": "Download Play (DS-mode)",
    "version": "v1024",
    "update_versions": "08-18-16_TWN_BeginScanning"
  },
@@ -1444,14 +1444,14 @@
  {
    "titleid": "0004001000022100",
    "region": "EUR",
-   "name": "Download Play application",
+   "name": "Download Play",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004001000022400",
    "region": "EUR",
-   "name": "Nintendo 3DS Camera application",
+   "name": "Nintendo 3DS Camera",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
@@ -1465,7 +1465,7 @@
  {
    "titleid": "0004001000022A00",
    "region": "EUR",
-   "name": "System Transfer application",
+   "name": "System Transfer",
    "version": "v5131, v6155",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
@@ -1479,35 +1479,35 @@
  {
    "titleid": "0004003000009902",
    "region": "EUR",
-   "name": "Camera applet",
+   "name": "Camera",
    "version": "v2049",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009B02",
    "region": "EUR",
-   "name": "Instruction Manual applet",
+   "name": "Instruction Manual",
    "version": "v5120",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009C02",
    "region": "EUR",
-   "name": "Game Notes applet",
+   "name": "Game Notes",
    "version": "v4096",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000009F02",
    "region": "EUR",
-   "name": "Friend List applet",
+   "name": "Friend List",
    "version": "v6144",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400300000A002",
    "region": "EUR",
-   "name": "Notifications applet",
+   "name": "Notifications",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
@@ -1570,7 +1570,7 @@
  {
    "titleid": "0004001000020100",
    "region": "JPN",
-   "name": "Download Play application",
+   "name": "Download Play",
    "version": "v3072",
    "update_versions": "9.0.0-20"
  },
@@ -1584,14 +1584,14 @@
  {
    "titleid": "0004001000020400",
    "region": "JPN",
-   "name": "Nintendo 3DS Camera application",
+   "name": "Nintendo 3DS Camera",
    "version": "v4097, v4112",
    "update_versions": "9.0.0-20, 10.6.0-31"
  },
  {
    "titleid": "0004001000020500",
    "region": "JPN",
-   "name": "Nintendo 3DS Sound application",
+   "name": "Nintendo 3DS Sound",
    "version": "v3104",
    "update_versions": "10.6.0-31"
  },
@@ -1612,7 +1612,7 @@
  {
    "titleid": "0004001000020A00",
    "region": "JPN",
-   "name": "System Transfer application",
+   "name": "System Transfer",
    "version": "v5130, v6154",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
@@ -1626,35 +1626,35 @@
  {
    "titleid": "0004003000008402",
    "region": "JPN",
-   "name": "Camera applet",
+   "name": "Camera",
    "version": "v2049",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000008602",
    "region": "JPN",
-   "name": "Instruction Manual applet",
+   "name": "Instruction Manual",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000008702",
    "region": "JPN",
-   "name": "Game Notes applet",
+   "name": "Game Notes",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000008D02",
    "region": "JPN",
-   "name": "Friend List applet",
+   "name": "Friend List",
    "version": "v6144",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004003000008E02",
    "region": "JPN",
-   "name": "Notifications applet",
+   "name": "Notifications",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
@@ -1745,84 +1745,84 @@
  {
    "titleid": "000400300000CD02",
    "region": "USA",
-   "name": "extrapad applet",
+   "name": "extrapad",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400300000CD02",
    "region": "JPN",
-   "name": "extrapad applet",
+   "name": "extrapad",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400300000CD02",
    "region": "EUR",
-   "name": "extrapad applet",
+   "name": "extrapad",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400300000CE02",
    "region": "USA",
-   "name": "mint (eShop applet)",
+   "name": "mint (eShop)",
    "version": "v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
  },
  {
    "titleid": "000400300000D602",
    "region": "EUR",
-   "name": "mint (eShop applet)",
+   "name": "mint (eShop)",
    "version": "v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384, v17408",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32, 11.2.0-35"
  },
  {
    "titleid": "000400300000C602",
    "region": "JPN",
-   "name": "mint (eShop applet)",
+   "name": "mint (eShop)",
    "version": "v8200, v9224, v10247, v11264, v12293, v13312, v14337, v15360, v16384",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
  },
  {
    "titleid": "000400300000CF02",
    "region": "CHN",
-   "name": "error applet",
+   "name": "error",
    "version": "v1027",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000CF02",
    "region": "KOR",
-   "name": "error applet",
+   "name": "error",
    "version": "v1027",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000CF02",
    "region": "TWN",
-   "name": "error applet",
+   "name": "error",
    "version": "v1027",
    "update_versions": "08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "000400300000D502",
    "region": "CHN",
-   "name": "extrapad applet",
+   "name": "extrapad",
    "version": "v2049",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000D502",
    "region": "KOR",
-   "name": "extrapad applet",
+   "name": "extrapad",
    "version": "v2049",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000D502",
    "region": "TWN",
-   "name": "extrapad applet",
+   "name": "extrapad",
    "version": "v2049",
    "update_versions": "08-18-16_TWN_BeginScanning"
  },
@@ -1843,7 +1843,7 @@
  {
    "titleid": "0004001000027100",
    "region": "KOR",
-   "name": "Download Play application",
+   "name": "Download Play",
    "version": "v2048",
    "update_versions": "9.6.0-24"
  },
@@ -1857,14 +1857,14 @@
  {
    "titleid": "0004001000027400",
    "region": "KOR",
-   "name": "Nintendo 3DS Camera application",
+   "name": "Nintendo 3DS Camera",
    "version": "v2049",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "0004001000027500",
    "region": "KOR",
-   "name": "Nintendo 3DS Sound application",
+   "name": "Nintendo 3DS Sound",
    "version": "v16",
    "update_versions": "9.7.0-25"
  },
@@ -1892,7 +1892,7 @@
  {
    "titleid": "0004001000027A00",
    "region": "KOR",
-   "name": "System Transfer application",
+   "name": "System Transfer",
    "version": "v4106",
    "update_versions": "9.6.0-24"
  },
@@ -1906,7 +1906,7 @@
  {
    "titleid": "0004001000027F00",
    "region": "KOR",
-   "name": "SAFE_MODE System Updater application",
+   "name": "SAFE_MODE System Updater",
    "version": "v1025",
    "update_versions": "9.7.0-25"
  },
@@ -1920,35 +1920,35 @@
  {
    "titleid": "000400300000AA02",
    "region": "KOR",
-   "name": "Camera applet",
+   "name": "Camera",
    "version": "v1024",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000AC02",
    "region": "KOR",
-   "name": "Instruction Manual applet",
+   "name": "Instruction Manual",
    "version": "v6144",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000AD02",
    "region": "KOR",
-   "name": "Camera applet",
+   "name": "Camera",
    "version": "v4096",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000AF02",
    "region": "KOR",
-   "name": "Friend List applet",
+   "name": "Friend List",
    "version": "v3072",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400300000B002",
    "region": "KOR",
-   "name": "Notifications applet",
+   "name": "Notifications",
    "version": "v2048",
    "update_versions": "9.6.0-24"
  },
@@ -1983,7 +1983,7 @@
  {
    "titleid": "000400300000E302",
    "region": "KOR",
-   "name": "mint (eShop applet)",
+   "name": "mint (eShop)",
    "version": "v10247, v11264, v12293, v13312, v14337, v15360, v16384",
    "update_versions": "9.6.0-24, 9.8.0-25, 10.0.0-27, 10.1.0-27, 10.3.0-28, 10.4.0-29, 10.7.0-32"
  },
@@ -2025,7 +2025,7 @@
  {
    "titleid": "00048005484E444B",
    "region": "KOR",
-   "name": "Download Play (DS-mode application)",
+   "name": "Download Play (DS-mode)",
    "version": "v1024",
    "update_versions": "9.7.0-25"
  },
@@ -2081,7 +2081,7 @@
  {
    "titleid": "000400100002C000",
    "region": "USA",
-   "name": "Nintendo Network ID Settings application",
+   "name": "Nintendo Network ID Settings",
    "version": "v2051, v3072",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
@@ -2151,7 +2151,7 @@
  {
    "titleid": "000400300000BD02",
    "region": "USA",
-   "name": "Miiverse applet",
+   "name": "Miiverse",
    "version": "v2048, v3072, v4096",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
@@ -2179,70 +2179,70 @@
  {
    "titleid": "0004013000003802",
    "region": "CHN",
-   "name": "act system-module",
+   "name": "act",
    "version": "v6144, v7168, v8198",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000003802",
    "region": "USA",
-   "name": "act system-module",
+   "name": "act",
    "version": "v6144, v7168, v8198",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000003802",
    "region": "JPN",
-   "name": "act system-module",
+   "name": "act",
    "version": "v6144, v7168, v8198",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000003802",
    "region": "KOR",
-   "name": "act system-module",
+   "name": "act",
    "version": "v7168, v8198",
    "update_versions": "9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000003802",
    "region": "EUR",
-   "name": "act system-module",
+   "name": "act",
    "version": "v6144, v7168, v8198",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013000003802",
    "region": "TWN",
-   "name": "act system-module",
+   "name": "act",
    "version": "v6144, v7168, v8198",
    "update_versions": "9.0.0-20, 9.3.0-21, 08-18-16_TWN_BeginScanning"
  },
  {
    "titleid": "000400100002C100",
    "region": "EUR",
-   "name": "Nintendo Network ID Settings application",
+   "name": "Nintendo Network ID Settings",
    "version": "v2051, v3072",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "000400300000BE02",
    "region": "EUR",
-   "name": "Miiverse applet",
+   "name": "Miiverse",
    "version": "v2048, v3072, v4096",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "000400100002BF00",
    "region": "JPN",
-   "name": "Nintendo Network ID Settings application",
+   "name": "Nintendo Network ID Settings",
    "version": "v2051, v3072",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "000400300000BC02",
    "region": "JPN",
-   "name": "Miiverse applet",
+   "name": "Miiverse",
    "version": "v2051, v3072, v4096",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
@@ -2256,7 +2256,7 @@
  {
    "titleid": "0004003000008B02",
    "region": "USA",
-   "name": "solv3 system-applet (Miiverse-posting applet)",
+   "name": "solv3 system-applet (Miiverse-posting)",
    "version": "v6",
    "update_versions": "9.0.0-20"
  },
@@ -2284,7 +2284,7 @@
  {
    "titleid": "000400102002D000",
    "region": "EUR",
-   "name": "New3DS placeholder menu system-application",
+   "name": "New3DS placeholder menu",
    "version": "v1, v17, v34",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
@@ -2354,21 +2354,21 @@
  {
    "titleid": "000400302000C503",
    "region": "USA",
-   "name": "New3DS SAFE_MODE error applet",
+   "name": "New3DS SAFE_MODE error",
    "version": "v1024",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400302000C503",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE error applet",
+   "name": "New3DS SAFE_MODE error",
    "version": "v1024",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "000400302000C503",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE error applet",
+   "name": "New3DS SAFE_MODE error",
    "version": "v1024",
    "update_versions": "9.0.0-20"
  },
@@ -2389,896 +2389,896 @@
  {
    "titleid": "0004013020001503",
    "region": "USA",
-   "name": "New3DS SAFE_MODE AM system-module",
+   "name": "New3DS SAFE_MODE AM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001503",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE AM system-module",
+   "name": "New3DS SAFE_MODE AM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001503",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE AM system-module",
+   "name": "New3DS SAFE_MODE AM",
    "version": "v7169",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001503",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE AM system-module",
+   "name": "New3DS SAFE_MODE AM",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001602",
    "region": "USA",
-   "name": "New3DS Camera system-module",
+   "name": "New3DS Camera",
    "version": "v9218, v10242, v11265",
    "update_versions": "9.0.0-20, 9.3.0-21, 10.0.0-27"
  },
  {
    "titleid": "0004013020001602",
    "region": "JPN",
-   "name": "New3DS Camera system-module",
+   "name": "New3DS Camera",
    "version": "v9218, v10242, v11265",
    "update_versions": "9.0.0-20, 9.3.0-21, 10.0.0-27"
  },
  {
    "titleid": "0004013020001602",
    "region": "KOR",
-   "name": "New3DS Camera system-module",
+   "name": "New3DS Camera",
    "version": "v10242, v11265",
    "update_versions": "9.7.0-25, 10.0.0-27"
  },
  {
    "titleid": "0004013020001602",
    "region": "EUR",
-   "name": "New3DS Camera system-module",
+   "name": "New3DS Camera",
    "version": "v9218, v10242, v11265",
    "update_versions": "9.0.0-20, 9.3.0-21, 10.0.0-27"
  },
  {
    "titleid": "0004013020001703",
    "region": "USA",
-   "name": "New3DS SAFE_MODE Config system-module",
+   "name": "New3DS SAFE_MODE Config",
    "version": "v11265",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001703",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE Config system-module",
+   "name": "New3DS SAFE_MODE Config",
    "version": "v11265",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001703",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE Config system-module",
+   "name": "New3DS SAFE_MODE Config",
    "version": "v11265",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001703",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE Config system-module",
+   "name": "New3DS SAFE_MODE Config",
    "version": "v11265",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001803",
    "region": "USA",
-   "name": "New3DS SAFE_MODE Codec system-module",
+   "name": "New3DS SAFE_MODE Codec",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001803",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE Codec system-module",
+   "name": "New3DS SAFE_MODE Codec",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001803",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE Codec system-module",
+   "name": "New3DS SAFE_MODE Codec",
    "version": "v7169",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001803",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE Codec system-module",
+   "name": "New3DS SAFE_MODE Codec",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001A03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE DSP system-module",
+   "name": "New3DS SAFE_MODE DSP",
    "version": "v6145",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001A03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE DSP system-module",
+   "name": "New3DS SAFE_MODE DSP",
    "version": "v6145",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001A03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE DSP system-module",
+   "name": "New3DS SAFE_MODE DSP",
    "version": "v6145",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001A03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE DSP system-module",
+   "name": "New3DS SAFE_MODE DSP",
    "version": "v6145",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001B03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE GPIO system-module",
+   "name": "New3DS SAFE_MODE GPIO",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001B03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE GPIO system-module",
+   "name": "New3DS SAFE_MODE GPIO",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001B03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE GPIO system-module",
+   "name": "New3DS SAFE_MODE GPIO",
    "version": "v3073",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001B03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE GPIO system-module",
+   "name": "New3DS SAFE_MODE GPIO",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001C02",
    "region": "USA",
-   "name": "New3DS GSP system-module",
+   "name": "New3DS GSP",
    "version": "v10243, v11267, v12294",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013020001C02",
    "region": "JPN",
-   "name": "New3DS GSP system-module",
+   "name": "New3DS GSP",
    "version": "v10243, v11267, v12294",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013020001C02",
    "region": "KOR",
-   "name": "New3DS GSP system-module",
+   "name": "New3DS GSP",
    "version": "v12294",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "0004013020001C02",
    "region": "EUR",
-   "name": "New3DS GSP system-module",
+   "name": "New3DS GSP",
    "version": "v10243, v11267, v12294",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "0004013020001C03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE GSP system-module",
+   "name": "New3DS SAFE_MODE GSP",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001C03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE GSP system-module",
+   "name": "New3DS SAFE_MODE GSP",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001C03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE GSP system-module",
+   "name": "New3DS SAFE_MODE GSP",
    "version": "v9217",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001C03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE GSP system-module",
+   "name": "New3DS SAFE_MODE GSP",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001D03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE HID system-module",
+   "name": "New3DS SAFE_MODE HID",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001D03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE HID system-module",
+   "name": "New3DS SAFE_MODE HID",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001D03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE HID system-module",
+   "name": "New3DS SAFE_MODE HID",
    "version": "v8193",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001D03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE HID system-module",
+   "name": "New3DS SAFE_MODE HID",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001E02",
    "region": "USA",
-   "name": "New3DS i2c system-module",
+   "name": "New3DS i2c",
    "version": "v4096, v5121",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013020001E02",
    "region": "JPN",
-   "name": "New3DS i2c system-module",
+   "name": "New3DS i2c",
    "version": "v4096, v5121",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013020001E02",
    "region": "KOR",
-   "name": "New3DS i2c system-module",
+   "name": "New3DS i2c",
    "version": "v5121",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001E02",
    "region": "EUR",
-   "name": "New3DS i2c system-module",
+   "name": "New3DS i2c",
    "version": "v4096, v5121",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013020001E03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE i2c system-module",
+   "name": "New3DS SAFE_MODE i2c",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001E03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE i2c system-module",
+   "name": "New3DS SAFE_MODE i2c",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001E03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE i2c system-module",
+   "name": "New3DS SAFE_MODE i2c",
    "version": "v4097",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001E03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE i2c system-module",
+   "name": "New3DS SAFE_MODE i2c",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001F02",
    "region": "USA",
-   "name": "New3DS MCU system-module",
+   "name": "New3DS MCU",
    "version": "v8192",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001F02",
    "region": "JPN",
-   "name": "New3DS MCU system-module",
+   "name": "New3DS MCU",
    "version": "v8192",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001F02",
    "region": "KOR",
-   "name": "New3DS MCU system-module",
+   "name": "New3DS MCU",
    "version": "v8192",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001F02",
    "region": "EUR",
-   "name": "New3DS MCU system-module",
+   "name": "New3DS MCU",
    "version": "v8192",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001F03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE MCU system-module",
+   "name": "New3DS SAFE_MODE MCU",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001F03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE MCU system-module",
+   "name": "New3DS SAFE_MODE MCU",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020001F03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE MCU system-module",
+   "name": "New3DS SAFE_MODE MCU",
    "version": "v9217",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020001F03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE MCU system-module",
+   "name": "New3DS SAFE_MODE MCU",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002103",
    "region": "USA",
-   "name": "New3DS SAFE_MODE PDN system-module",
+   "name": "New3DS SAFE_MODE PDN",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002103",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE PDN system-module",
+   "name": "New3DS SAFE_MODE PDN",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002103",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE PDN system-module",
+   "name": "New3DS SAFE_MODE PDN",
    "version": "v3073",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002103",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE PDN system-module",
+   "name": "New3DS SAFE_MODE PDN",
    "version": "v3073",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002202",
    "region": "USA",
-   "name": "New3DS PTM system-module",
+   "name": "New3DS PTM",
    "version": "v10240, v11264",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013020002202",
    "region": "JPN",
-   "name": "New3DS PTM system-module",
+   "name": "New3DS PTM",
    "version": "v10240, v11264",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013020002202",
    "region": "KOR",
-   "name": "New3DS PTM system-module",
+   "name": "New3DS PTM",
    "version": "v11264",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "0004013020002202",
    "region": "EUR",
-   "name": "New3DS PTM system-module",
+   "name": "New3DS PTM",
    "version": "v10240, v11264",
    "update_versions": "9.0.0-20, 9.6.0-24"
  },
  {
    "titleid": "0004013020002203",
    "region": "USA",
-   "name": "New3DS SAFE_MODE PTM system-module",
+   "name": "New3DS SAFE_MODE PTM",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002203",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE PTM system-module",
+   "name": "New3DS SAFE_MODE PTM",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002203",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE PTM system-module",
+   "name": "New3DS SAFE_MODE PTM",
    "version": "v10241",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002203",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE PTM system-module",
+   "name": "New3DS SAFE_MODE PTM",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002302",
    "region": "USA",
-   "name": "New3DS spi system-module",
+   "name": "New3DS spi",
    "version": "v4096",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002302",
    "region": "JPN",
-   "name": "New3DS spi system-module",
+   "name": "New3DS spi",
    "version": "v4096",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002302",
    "region": "KOR",
-   "name": "New3DS spi system-module",
+   "name": "New3DS spi",
    "version": "v4096",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002302",
    "region": "EUR",
-   "name": "New3DS spi system-module",
+   "name": "New3DS spi",
    "version": "v4096",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002303",
    "region": "USA",
-   "name": "New3DS SAFE_MODE spi system-module",
+   "name": "New3DS SAFE_MODE spi",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002303",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE spi system-module",
+   "name": "New3DS SAFE_MODE spi",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002303",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE spi system-module",
+   "name": "New3DS SAFE_MODE spi",
    "version": "v4097",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002303",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE spi system-module",
+   "name": "New3DS SAFE_MODE spi",
    "version": "v4097",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002403",
    "region": "USA",
-   "name": "New3DS SAFE_MODE AC system-module",
+   "name": "New3DS SAFE_MODE AC",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002403",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE AC system-module",
+   "name": "New3DS SAFE_MODE AC",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002403",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE AC system-module",
+   "name": "New3DS SAFE_MODE AC",
    "version": "v8193",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002403",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE AC system-module",
+   "name": "New3DS SAFE_MODE AC",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002703",
    "region": "USA",
-   "name": "New3DS SAFE_MODE CSND system-module",
+   "name": "New3DS SAFE_MODE CSND",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002703",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE CSND system-module",
+   "name": "New3DS SAFE_MODE CSND",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002703",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE CSND system-module",
+   "name": "New3DS SAFE_MODE CSND",
    "version": "v5121",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002703",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE CSND system-module",
+   "name": "New3DS SAFE_MODE CSND",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002903",
    "region": "USA",
-   "name": "New3DS SAFE_MODE HTTP system-module",
+   "name": "New3DS SAFE_MODE HTTP",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002903",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE HTTP system-module",
+   "name": "New3DS SAFE_MODE HTTP",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002903",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE HTTP system-module",
+   "name": "New3DS SAFE_MODE HTTP",
    "version": "v10241",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002903",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE HTTP system-module",
+   "name": "New3DS SAFE_MODE HTTP",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002C03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE NIM system-module",
+   "name": "New3DS SAFE_MODE NIM",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002C03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE NIM system-module",
+   "name": "New3DS SAFE_MODE NIM",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002C03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE NIM system-module",
+   "name": "New3DS SAFE_MODE NIM",
    "version": "v9217",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002C03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE NIM system-module",
+   "name": "New3DS SAFE_MODE NIM",
    "version": "v9217",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002D03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE NWM system-module",
+   "name": "New3DS SAFE_MODE NWM",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002D03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE NWM system-module",
+   "name": "New3DS SAFE_MODE NWM",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002D03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE NWM system-module",
+   "name": "New3DS SAFE_MODE NWM",
    "version": "v10241",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002D03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE NWM system-module",
+   "name": "New3DS SAFE_MODE NWM",
    "version": "v10241",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002E03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE Sockets system-module",
+   "name": "New3DS SAFE_MODE Sockets",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002E03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE Sockets system-module",
+   "name": "New3DS SAFE_MODE Sockets",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002E03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE Sockets system-module",
+   "name": "New3DS SAFE_MODE Sockets",
    "version": "v7169",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002E03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE Sockets system-module",
+   "name": "New3DS SAFE_MODE Sockets",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002F03",
    "region": "USA",
-   "name": "New3DS SAFE_MODE SSL system-module",
+   "name": "New3DS SAFE_MODE SSL",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002F03",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE SSL system-module",
+   "name": "New3DS SAFE_MODE SSL",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020002F03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE SSL system-module",
+   "name": "New3DS SAFE_MODE SSL",
    "version": "v7169",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020002F03",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE SSL system-module",
+   "name": "New3DS SAFE_MODE SSL",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003103",
    "region": "USA",
-   "name": "New3DS SAFE_MODE PS system-module",
+   "name": "New3DS SAFE_MODE PS",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003103",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE PS system-module",
+   "name": "New3DS SAFE_MODE PS",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003103",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE PS system-module",
+   "name": "New3DS SAFE_MODE PS",
    "version": "v5121",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020003103",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE PS system-module",
+   "name": "New3DS SAFE_MODE PS",
    "version": "v5121",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003203",
    "region": "USA",
-   "name": "New3DS SAFE_MODE friends system-module",
+   "name": "New3DS SAFE_MODE friends",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003203",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE friends system-module",
+   "name": "New3DS SAFE_MODE friends",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003203",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE friends system-module",
+   "name": "New3DS SAFE_MODE friends",
    "version": "v8193",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020003203",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE friends system-module",
+   "name": "New3DS SAFE_MODE friends",
    "version": "v8193",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003303",
    "region": "USA",
-   "name": "New3DS SAFE_MODE IR system-module",
+   "name": "New3DS SAFE_MODE IR",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003303",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE IR system-module",
+   "name": "New3DS SAFE_MODE IR",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020003303",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE IR system-module",
+   "name": "New3DS SAFE_MODE IR",
    "version": "v7169",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020003303",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE IR system-module",
+   "name": "New3DS SAFE_MODE IR",
    "version": "v7169",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020004002",
    "region": "USA",
-   "name": "New3DS nfc system-module",
+   "name": "New3DS nfc",
    "version": "v1024, v2053, v3073, v4102, v6145, v7168",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.6.0-31"
  },
  {
    "titleid": "0004013020004002",
    "region": "JPN",
-   "name": "New3DS nfc system-module",
+   "name": "New3DS nfc",
    "version": "v1024, v2053, v3073, v4102, v6145, v7168",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.6.0-31"
  },
  {
    "titleid": "0004013020004002",
    "region": "KOR",
-   "name": "New3DS nfc system-module",
+   "name": "New3DS nfc",
    "version": "v4102, v6145, v7168",
    "update_versions": "9.6.0-24, 10.0.0-27, 10.6.0-31"
  },
  {
    "titleid": "0004013020004002",
    "region": "EUR",
-   "name": "New3DS nfc system-module",
+   "name": "New3DS nfc",
    "version": "v1024, v2053, v3073, v4102, v6145, v7168",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.5.0-22, 9.6.0-24, 10.0.0-27, 10.6.0-31"
  },
  {
    "titleid": "0004013020004102",
    "region": "USA",
-   "name": "New3DS mvd system-module",
+   "name": "New3DS mvd",
    "version": "v1024",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020004102",
    "region": "JPN",
-   "name": "New3DS mvd system-module",
+   "name": "New3DS mvd",
    "version": "v1024",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020004102",
    "region": "KOR",
-   "name": "New3DS mvd system-module",
+   "name": "New3DS mvd",
    "version": "v1024",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020004102",
    "region": "EUR",
-   "name": "New3DS mvd system-module",
+   "name": "New3DS mvd",
    "version": "v1024",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020004202",
    "region": "USA",
-   "name": "New3DS qtm system-module",
+   "name": "New3DS qtm",
    "version": "v1025, v2052",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013020004202",
    "region": "JPN",
-   "name": "New3DS qtm system-module",
+   "name": "New3DS qtm",
    "version": "v1025, v2052",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013020004202",
    "region": "KOR",
-   "name": "New3DS qtm system-module",
+   "name": "New3DS qtm",
    "version": "v2052",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020004202",
    "region": "EUR",
-   "name": "New3DS qtm system-module",
+   "name": "New3DS qtm",
    "version": "v1025, v2052",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
  {
    "titleid": "0004013020008003",
    "region": "USA",
-   "name": "New3DS SAFE_MODE NS system-module",
+   "name": "New3DS SAFE_MODE NS",
    "version": "v13313",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020008003",
    "region": "JPN",
-   "name": "New3DS SAFE_MODE NS system-module",
+   "name": "New3DS SAFE_MODE NS",
    "version": "v13313",
    "update_versions": "9.0.0-20"
  },
  {
    "titleid": "0004013020008003",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE NS system-module",
+   "name": "New3DS SAFE_MODE NS",
    "version": "v13313",
    "update_versions": "9.7.0-25"
  },
  {
    "titleid": "0004013020008003",
    "region": "EUR",
-   "name": "New3DS SAFE_MODE NS system-module",
+   "name": "New3DS SAFE_MODE NS",
    "version": "v13313",
    "update_versions": "9.0.0-20"
  },
@@ -3397,7 +3397,7 @@
  {
    "titleid": "0004003000008302",
    "region": "JPN",
-   "name": "solv3 system-applet (Miiverse-posting applet)",
+   "name": "solv3 system-applet (Miiverse-posting)",
    "version": "v6",
    "update_versions": "9.0.0-20"
  },
@@ -3425,14 +3425,14 @@
  {
    "titleid": "000400102002CF00",
    "region": "USA",
-   "name": "New3DS placeholder menu system-application",
+   "name": "New3DS placeholder menu",
    "version": "v1, v18, v33",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
  {
    "titleid": "000400102002D100",
    "region": "USA",
-   "name": "New3DS placeholder friend system-application",
+   "name": "New3DS placeholder friend",
    "version": "v0, v16",
    "update_versions": "9.0.0-20, 9.3.0-21"
  },
@@ -3495,7 +3495,7 @@
  {
    "titleid": "000400102002C800",
    "region": "JPN",
-   "name": "New3DS placeholder menu system-application",
+   "name": "New3DS placeholder menu",
    "version": "v18, v34, v50",
    "update_versions": "9.0.0-20, 9.3.0-21, 9.6.0-24"
  },
@@ -3579,28 +3579,28 @@
  {
    "titleid": "000400102002D700",
    "region": "KOR",
-   "name": "New3DS placeholder menu system-application",
+   "name": "New3DS placeholder menu",
    "version": "v2, v16",
    "update_versions": "9.6.0-24, 11.1.0-34"
  },
  {
    "titleid": "000400102002D800",
    "region": "KOR",
-   "name": "New3DS placeholder friend system-application",
+   "name": "New3DS placeholder friend",
    "version": "v2",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400102002D900",
    "region": "KOR",
-   "name": "New3DS placeholder newslist system-application",
+   "name": "New3DS placeholder newslist",
    "version": "v2",
    "update_versions": "9.6.0-24"
  },
  {
    "titleid": "000400102002DA00",
    "region": "KOR",
-   "name": "New3DS placeholder game notes system-application",
+   "name": "New3DS placeholder game notes",
    "version": "v1",
    "update_versions": "9.6.0-24"
  },
@@ -3614,7 +3614,7 @@
  {
    "titleid": "000400302000CF03",
    "region": "KOR",
-   "name": "New3DS SAFE_MODE error applet",
+   "name": "New3DS SAFE_MODE error",
    "version": "v1",
    "update_versions": "9.6.0-24"
  },
